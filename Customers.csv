@@ -1,0 +1,181 @@
+Customer_ID,First_Name,Last_Name,Gender,Date_of_Birth,Location,Occupation,Registration_Date,Customer_Segment
+C00001,Nana,Frimpong,Male,2004-02-27,Mampong,Lawyer,2017-01-02,Premium
+C00002,Mawuli,Tetteh,Male,1983-11-29,Savelugu,Farmer,2022-03-20,Mass Affluent
+C00003,Ato,Kwarteng,Non-binary,1962-08-10,Sunyani,Administrator,2020-03-08,Mass Affluent
+C00004,Efua,Osei,Female,1982-11-06,Kumasi,Nurse,2019-07-10,Corporate
+C00005,Kweku,Sarpong,Male,1961-07-14,Axim,Doctor,2022-02-09,Corporate
+C00006,Abena,Mensah,Female,1990-11-08,Mampong,Nurse,2019-09-27,Mass Affluent
+C00007,Kwame,Antwi,Male,2001-06-20,Ho,Farmer,2022-03-18,Mass Affluent
+C00008,Ato,Antwi,Non-binary,1996-09-07,Keta,Driver,2024-06-27,Premium
+C00009,Yaw,Quaye,Prefer not to say,2004-02-25,Bawku,Lawyer,2022-01-01,Mass Affluent
+C00010,Ato,Quaye,Male,1979-11-17,Berekum,Farmer,2025-08-03,Retail
+C00011,Adwoa,Arthur,Non-binary,1980-08-19,Mankessim,Trader,2019-08-19,Mass Affluent
+C00012,Abena,Addo,Female,1975-09-30,Bawku,Civil Servant,2021-04-18,SME
+C00013,Kwame,Addo,Prefer not to say,1996-10-19,Adenta,Lawyer,2021-08-31,Premium
+C00014,Fiifi,Acheampong,Prefer not to say,1956-10-02,Accra,Software Developer,2025-08-02,SME
+C00015,Yaa,Antwi,Male,1989-12-27,Yendi,Nurse,2021-09-13,SME
+C00016,Afia,Arthur,Prefer not to say,1998-07-27,Akosombo,Engineer,2017-04-29,Corporate
+C00017,Yaa,Mensah,Prefer not to say,1966-06-14,Hohoe,Driver,2023-12-24,Retail
+C00018,Mawuli,Agyeman,Female,1993-06-14,Winneba,Civil Servant,2018-07-10,SME
+C00019,Esi,Acheampong,Non-binary,1995-10-17,Keta,Accountant,2020-08-31,Retail
+C00020,Yaa,Owusu,Non-binary,1956-09-27,Ho,Student,2025-05-27,Retail
+C00021,Ama,Appiah,Male,1958-08-12,Koforidua,Driver,2025-06-17,Mass Affluent
+C00022,Kofi,Sarpong,Male,1966-04-29,Mampong,Doctor,2022-04-24,SME
+C00023,Mansa,Kwarteng,Female,1988-02-04,Sunyani,Accountant,2018-11-19,Retail
+C00024,Fiifi,Acheampong,Prefer not to say,1957-04-21,Obuasi,Trader,2020-07-01,Premium
+C00025,Nana,Kwarteng,Female,1976-10-14,Mankessim,Lawyer,2018-02-22,Retail
+C00026,Kwabena,Asante,Non-binary,2002-10-17,Takoradi,Administrator,2021-10-21,Corporate
+C00027,Kweku,Badu,Prefer not to say,1998-12-23,Hohoe,Engineer,2018-03-09,Corporate
+C00028,Adwoa,Kwarteng,Prefer not to say,2001-10-22,Winneba,Civil Servant,2024-04-18,Premium
+C00029,Akosua,Darko,Prefer not to say,1983-12-01,Takoradi,,2019-10-03,Corporate
+C00030,Ama,Quaye,Non-binary,1988-12-31,Tema,Farmer,2020-10-09,Mass Affluent
+C00031,Adwoa,Kwarteng,Non-binary,1978-03-06,Hohoe,Teacher,2020-10-26,Premium
+C00032,Kweku,Quaye,Male,1962-09-06,Navrongo,Farmer,2019-09-16,Corporate
+C00033,Nana,Appiah,Prefer not to say,1956-07-19,Tema,Accountant,2018-01-17,Premium
+C00034,Ato,Badu,Prefer not to say,1997-06-16,Dormaa,Entrepreneur,2023-03-18,SME
+C00035,Nana,Darko,Male,1995-09-16,Ho,Doctor,2020-01-15,Mass Affluent
+C00036,Yaa,Agyeman,Male,1965-09-22,Tamale,Doctor,2025-05-01,Corporate
+C00037,Nana,Boateng,Male,2002-01-25,Berekum,Nurse,2023-09-11,SME
+C00038,Yaa,Osei,Non-binary,1982-02-12,Cape Coast,Teacher,2017-02-27,Premium
+C00039,Akua,Boateng,Female,1966-04-30,Akosombo,Accountant,2024-02-26,Corporate
+C00040,Yaw,Owusu,Non-binary,1994-07-08,Nkawkaw,Trader,2020-10-27,Retail
+C00041,Fiifi,Owusu,Male,1999-02-12,Obuasi,Lawyer,2017-10-31,Premium
+C00042,Kofi,Antwi,Prefer not to say,1962-08-23,Dormaa,Driver,2019-10-14,Premium
+C00043,Mawuli,Tetteh,Non-binary,2001-11-18,Dormaa,Civil Servant,2021-04-08,SME
+C00044,Kofi,Addo,Male,1960-05-27,Madina,Student,2023-11-03,Retail
+C00045,Yaa,Asante,Male,1976-07-08,Koforidua,Civil Servant,2018-12-13,Corporate
+C00046,Kwame,Appiah,Non-binary,1997-02-27,Mankessim,Accountant,2020-04-07,Corporate
+C00047,Fiifi,Addo,Prefer not to say,1975-12-10,Kumasi,Entrepreneur,2019-12-20,Mass Affluent
+C00048,Abena,Asante,Female,1968-05-14,Obuasi,Lawyer,2019-12-25,SME
+C00049,Kofi,Tetteh,Non-binary,1980-11-22,Dormaa,Civil Servant,2021-12-04,SME
+C00050,Mawuli,Asante,Female,2003-06-12,Bawku,Doctor,2022-07-16,SME
+C00051,Akosua,Appiah,Female,1977-06-18,Savelugu,Administrator,2017-04-16,SME
+C00052,Yaw,Quaye,Prefer not to say,1958-08-11,Ejisu,Engineer,2025-07-23,Premium
+C00053,Akua,Badu,Prefer not to say,1999-02-11,Nkawkaw,Software Developer,2018-01-09,Retail
+C00054,Kweku,Quaye,Non-binary,1969-06-05,Adenta,Administrator,2020-09-12,Premium
+C00055,Esi,Darko,Non-binary,1995-10-21,Accra,Lawyer,2017-12-27,Corporate
+C00056,Yaa,Tetteh,Prefer not to say,2001-03-02,Tamale,Nurse,2017-01-05,Premium
+C00057,Mawuli,Owusu,Male,1999-09-21,Winneba,Entrepreneur,2024-01-06,Mass Affluent
+C00058,Akua,Boateng,Female,1980-11-03,Axim,,2021-11-30,Premium
+C00059,Yaw,Frimpong,Female,1976-06-20,Hohoe,Civil Servant,2024-12-17,Retail
+C00060,Kofi,Osei,Prefer not to say,1965-03-06,Dormaa,Accountant,2022-03-06,Premium
+C00061,Akua,Quaye,Male,1979-07-13,Adenta,Entrepreneur,2021-08-29,Mass Affluent
+C00062,Ato,Osei,Female,1972-02-06,Berekum,Lawyer,2023-09-22,Corporate
+C00063,Ama,Frimpong,Non-binary,2000-07-20,Axim,Driver,2019-12-31,Corporate
+C00064,Yaa,Quaye,Non-binary,1968-05-01,Yendi,Entrepreneur,2022-01-04,Premium
+C00065,Efua,Appiah,Prefer not to say,1995-11-07,Koforidua,Administrator,2020-08-11,Corporate
+C00066,Akua,Acheampong,Prefer not to say,1983-07-19,Hohoe,Lawyer,2025-05-09,Mass Affluent
+C00067,Ato,Sarpong,Non-binary,1958-04-28,Kumasi,Administrator,2018-06-02,Corporate
+C00068,Ama,Osei,Prefer not to say,2002-03-09,Mankessim,Engineer,2022-02-15,Retail
+C00069,Mansa,Acheampong,Female,1978-10-11,Keta,Administrator,2020-10-18,Premium
+C00070,Akua,Antwi,Female,1983-05-30,Akosombo,Trader,2024-01-12,Mass Affluent
+C00071,Akosua,Amankwah,Female,1980-10-12,Kumasi,Farmer,2019-07-21,Mass Affluent
+C00072,Kwame,Arthur,Female,1981-11-12,Winneba,Software Developer,2017-04-29,SME
+C00073,Ato,Amankwah,Male,1968-01-23,Koforidua,Engineer,2019-09-28,Retail
+C00074,Kojo,Quaye,Male,1989-04-27,Takoradi,Farmer,2023-12-14,SME
+C00075,Ama,Tetteh,Non-binary,1977-11-27,Savelugu,Entrepreneur,2024-06-24,Mass Affluent
+C00076,Fiifi,Frimpong,Prefer not to say,1994-08-18,Ejisu,Farmer,2020-11-16,SME
+C00077,Kofi,Appiah,Prefer not to say,1989-07-06,Akosombo,Software Developer,2022-06-03,Premium
+C00078,Afia,Darko,Female,1981-06-27,Akosombo,Administrator,2017-03-31,Retail
+C00079,Kojo,Kwarteng,Non-binary,1999-07-25,Sunyani,Student,2020-03-18,Mass Affluent
+C00080,Abena,Boateng,Female,1977-06-26,Yendi,Lawyer,2024-08-08,Corporate
+C00081,Abena,Asante,Non-binary,1987-09-25,Madina,Doctor,2025-03-19,Corporate
+C00082,Yaa,Badu,Non-binary,1973-01-05,Cape Coast,Accountant,2018-06-26,Corporate
+C00083,Esi,Boateng,Prefer not to say,1981-06-24,Koforidua,Engineer,2025-05-16,Mass Affluent
+C00084,Kwabena,Asante,Prefer not to say,1990-08-27,Tamale,Accountant,2023-04-02,Premium
+C00085,Adwoa,Sarpong,Prefer not to say,1995-10-20,Ejisu,Trader,2021-02-18,Mass Affluent
+C00086,Yaa,Arthur,Male,1957-03-31,Hohoe,Trader,2023-12-13,Corporate
+C00087,Kweku,Boateng,Male,1982-02-10,Sunyani,,2024-04-13,Retail
+C00088,Kofi,Appiah,Male,1999-03-13,Berekum,Farmer,2018-04-21,SME
+C00089,Fiifi,Osei,Prefer not to say,2003-06-19,Kumasi,Administrator,2021-09-13,Corporate
+C00090,Kwame,Badu,Male,1991-08-13,Tarkwa,Farmer,2020-02-20,Mass Affluent
+C00091,Kwabena,Antwi,Non-binary,1987-07-16,Accra,Civil Servant,2018-02-11,SME
+C00092,Akosua,Addo,Female,1965-12-16,Bolgatanga,Lawyer,2022-02-06,SME
+C00093,Fiifi,Addo,Female,1966-04-19,Navrongo,Nurse,2025-10-29,Premium
+C00094,Abena,Kwarteng,Female,1975-11-26,Keta,Administrator,2020-09-07,Mass Affluent
+C00095,Yaw,Boateng,Female,2003-06-19,Tamale,Teacher,2019-10-24,SME
+C00096,Esi,Mensah,Male,1976-05-06,Nkawkaw,Teacher,2023-08-09,Mass Affluent
+C00097,Kofi,Asante,Prefer not to say,1992-10-07,Yendi,Lawyer,2022-11-25,SME
+C00098,Ato,Appiah,Female,1964-10-13,Kasoa,Accountant,2022-01-26,Corporate
+C00099,Akua,Acheampong,Prefer not to say,1957-10-17,Kumasi,Farmer,2017-09-07,Corporate
+C00100,Mansa,Osei,Female,1962-04-01,Obuasi,Accountant,2020-08-12,Premium
+C00101,Esi,Acheampong,Non-binary,2004-03-12,Berekum,Entrepreneur,2024-12-26,Premium
+C00102,Kofi,Antwi,Male,1963-11-24,Nkawkaw,Farmer,2025-11-23,Mass Affluent
+C00103,Afia,Amankwah,Female,1985-05-29,Berekum,Civil Servant,2022-02-01,SME
+C00104,Abena,Quaye,Female,1977-11-13,Kumasi,Administrator,2021-03-14,Retail
+C00105,Kwabena,Osei,Female,1993-09-29,Ejisu,Student,2018-01-31,Retail
+C00106,Kweku,Owusu,Non-binary,1986-09-21,Dormaa,Accountant,2024-06-18,SME
+C00107,Abena,Quaye,Male,2000-07-09,Koforidua,Software Developer,2019-05-22,Premium
+C00108,Adwoa,Sarpong,Male,1965-04-22,Berekum,Administrator,2025-07-21,Premium
+C00109,Mansa,Darko,Female,2004-12-12,Sunyani,Accountant,2017-04-18,SME
+C00110,Ama,Agyeman,Male,1985-06-27,Hohoe,Student,2020-12-08,Corporate
+C00111,Ama,Asante,Male,1967-09-23,Yendi,Civil Servant,2025-04-24,Corporate
+C00112,Nana,Arthur,Female,1969-02-13,Takoradi,Engineer,2021-02-24,Mass Affluent
+C00113,Akosua,Darko,Prefer not to say,1959-06-19,Savelugu,Civil Servant,2024-07-23,Corporate
+C00114,Adwoa,Addo,Female,1994-08-28,Yendi,Civil Servant,2021-08-24,Retail
+C00115,Nana,Owusu,Male,1998-08-28,Winneba,Driver,2022-11-29,Retail
+C00116,Efua,Osei,Non-binary,1973-05-04,Ejisu,,2020-05-19,SME
+C00117,Kweku,Agyeman,Male,1955-09-11,Mampong,Entrepreneur,2022-07-31,Mass Affluent
+C00118,Kwabena,Asante,Prefer not to say,2005-02-15,Navrongo,Teacher,2024-06-29,Corporate
+C00119,Esi,Sarpong,Prefer not to say,1996-03-31,Mampong,Doctor,2017-11-15,Corporate
+C00120,Ama,Arthur,Male,1965-05-02,Akosombo,Farmer,2021-07-18,SME
+C00121,Kojo,Amankwah,Prefer not to say,1994-03-07,Kumasi,Civil Servant,2018-03-10,SME
+C00122,Esi,Agyeman,Female,1985-06-17,Hohoe,Student,2019-06-27,Retail
+C00123,Kwabena,Badu,Male,2000-10-01,Ho,Trader,2019-03-06,Mass Affluent
+C00124,Mansa,Osei,Female,1972-09-12,Tema,Lawyer,2018-12-12,Corporate
+C00125,Fiifi,Tetteh,Non-binary,2005-07-29,Akosombo,Software Developer,2025-07-10,Mass Affluent
+C00126,Mawuli,Frimpong,Non-binary,1961-02-15,Savelugu,Teacher,2022-04-05,SME
+C00127,Mawuli,Tetteh,Female,1961-08-28,Bolgatanga,Software Developer,2020-06-25,SME
+C00128,Mansa,Gyasi,Prefer not to say,1963-02-06,Mampong,Driver,2023-11-25,Premium
+C00129,Fiifi,Addo,Non-binary,1958-09-06,Akosombo,Farmer,2022-01-17,Premium
+C00130,Kofi,Arthur,Female,1960-07-20,Navrongo,Student,2022-01-20,Mass Affluent
+C00131,Mawuli,Tetteh,Male,1977-03-24,Keta,Software Developer,2024-12-08,SME
+C00132,Esi,Kwarteng,Female,1991-09-03,Dormaa,Student,2025-09-08,SME
+C00133,Yaa,Acheampong,Non-binary,1984-07-30,Yendi,Doctor,2018-01-23,Premium
+C00134,Akosua,Sarpong,Male,1968-06-28,Berekum,Accountant,2020-09-27,Corporate
+C00135,Yaa,Acheampong,Non-binary,1962-08-08,Tamale,Student,2020-06-22,Premium
+C00136,Kwabena,Mensah,Non-binary,1992-12-26,Ejisu,Engineer,2022-09-14,Mass Affluent
+C00137,Kojo,Osei,Male,1998-08-17,Takoradi,Accountant,2019-02-26,Retail
+C00138,Ato,Owusu,Non-binary,2003-06-05,Navrongo,Engineer,2025-04-14,Premium
+C00139,Yaw,Kwarteng,Male,1968-11-02,Akosombo,Farmer,2018-10-27,Retail
+C00140,Kojo,Tetteh,Non-binary,1987-09-07,Dormaa,Lawyer,2024-08-02,Corporate
+C00141,Nana,Quaye,Male,2002-11-28,Ejisu,Student,2019-09-07,Premium
+C00142,Nana,Acheampong,Prefer not to say,1996-06-02,Tamale,Administrator,2025-08-18,Mass Affluent
+C00143,Kwame,Quaye,Non-binary,1967-06-02,Hohoe,Trader,2019-10-22,Premium
+C00144,Akosua,Agyeman,Non-binary,1966-03-09,Winneba,Entrepreneur,2020-03-13,Mass Affluent
+C00145,Kojo,Tetteh,Non-binary,1994-04-01,Cape Coast,,2018-01-11,Corporate
+C00146,Kwabena,Appiah,Prefer not to say,1990-07-27,Cape Coast,Software Developer,2022-08-19,Mass Affluent
+C00147,Esi,Osei,Male,1983-08-04,Kumasi,Accountant,2018-02-10,Corporate
+C00148,Akua,Tetteh,Female,1967-06-14,Accra,Teacher,2025-07-06,SME
+C00149,Mansa,Gyasi,Prefer not to say,1968-05-31,Ho,Lawyer,2023-02-26,SME
+C00150,Kwame,Appiah,Prefer not to say,1982-01-07,Mampong,Trader,2018-05-15,Retail
+C00151,Yaa,Mensah,Male,1999-11-04,Dormaa,Engineer,2023-09-11,SME
+C00152,Kwabena,Appiah,Prefer not to say,1955-02-21,Bolgatanga,Student,2023-11-24,Retail
+C00153,Ato,Antwi,Female,1987-05-09,Keta,Administrator,2017-10-05,Corporate
+C00154,Adwoa,Mensah,Non-binary,1989-09-16,Ho,Software Developer,2021-03-10,Mass Affluent
+C00155,Fiifi,Arthur,Male,1964-04-19,Kumasi,Software Developer,2025-08-27,Premium
+C00156,Mawuli,Quaye,Male,1970-09-16,Takoradi,Trader,2025-09-27,Corporate
+C00157,Kwame,Addo,Female,1981-04-29,Madina,Accountant,2019-04-06,Premium
+C00158,Adwoa,Owusu,Male,2003-09-20,Madina,Software Developer,2022-04-24,Retail
+C00159,Kofi,Badu,Prefer not to say,1984-10-11,Yendi,Doctor,2020-01-25,Corporate
+C00160,Yaw,Quaye,Prefer not to say,1989-09-08,Yendi,Lawyer,2020-10-20,Premium
+C00161,Kweku,Asante,Prefer not to say,1962-05-31,Axim,Administrator,2025-02-26,Mass Affluent
+C00162,Kofi,Asante,Non-binary,1981-05-10,Madina,Accountant,2020-08-08,Corporate
+C00163,Mawuli,Badu,Prefer not to say,1993-03-24,Tamale,Doctor,2018-11-14,SME
+C00164,Kwame,Asante,Prefer not to say,1994-01-08,Tarkwa,Entrepreneur,2020-01-30,Mass Affluent
+C00165,Mawuli,Owusu,Male,1967-10-23,Kumasi,Nurse,2023-10-25,SME
+C00166,Kwame,Kwarteng,Male,1989-05-07,Mankessim,Farmer,2023-05-13,SME
+C00167,Akosua,Sarpong,Male,1994-10-30,Dormaa,Software Developer,2025-07-23,Corporate
+C00168,Kofi,Mensah,Male,1980-01-02,Yendi,Entrepreneur,2019-10-20,Corporate
+C00169,Adwoa,Darko,Prefer not to say,2005-05-22,Sunyani,Driver,2018-04-28,SME
+C00170,Kofi,Osei,Female,1999-01-25,Winneba,Engineer,2019-03-31,Corporate
+C00171,Kwabena,Asante,Non-binary,1983-09-03,Ejisu,Administrator,2024-06-28,Mass Affluent
+C00172,Kwabena,Gyasi,Male,1970-08-14,Cape Coast,Nurse,2025-11-25,Mass Affluent
+C00173,Kwabena,Antwi,Non-binary,1999-04-28,Mampong,Lawyer,2017-04-18,Premium
+C00174,Nana,Acheampong,Prefer not to say,1962-09-26,Savelugu,,2017-09-27,Corporate
+C00175,Akosua,Osei,Non-binary,1991-09-25,Dormaa,Trader,2023-06-13,Corporate
+C00176,Abena,Antwi,Male,2001-05-31,Koforidua,Civil Servant,2020-11-12,Premium
+C00177,Ato,Osei,Non-binary,1959-12-21,Sunyani,Engineer,2018-05-24,SME
+C00178,Ato,Frimpong,Female,1975-03-25,Tarkwa,Nurse,2020-11-18,Premium
+C00179,Nana,Kwarteng,Female,1966-03-25,Dormaa,Student,2024-01-05,Mass Affluent
+C00180,Mansa,Kwarteng,Non-binary,1968-10-31,Kasoa,Teacher,2018-12-03,Retail

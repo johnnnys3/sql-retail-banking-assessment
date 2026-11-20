@@ -1,0 +1,121 @@
+Branch_ID,Branch_Name,Region,City,Manager_Name
+BR001,Kumasi Community Branch 001,Ashanti,Kumasi,Adwoa Appiah
+BR002,Koforidua Commercial Branch 002,Eastern,Koforidua,Kofi Antwi
+BR003,Mampong Central Branch 003,Ashanti,Mampong,Kwame Mensah
+BR004,Obuasi Community Branch 004,Ashanti,Obuasi,Kojo Gyasi
+BR005,Kasoa Commercial Branch 005,Greater Accra,Kasoa,Efua Antwi
+BR006,Ho Central Branch 006,Volta,Ho,Mawuli Sarpong
+BR007,Cape Coast Community Branch 007,Central,Cape Coast,Yaw Amankwah
+BR008,Yendi Commercial Branch 008,Northern,Yendi,Abena Addo
+BR009,Tamale Central Branch 009,Northern,Tamale,Akosua Acheampong
+BR010,Ejisu Community Branch 010,Ashanti,Ejisu,Kwabena Kwarteng
+BR011,Cape Coast Commercial Branch 011,CENTRAL,Cape Coast,Mawuli Antwi
+BR012,Mampong Central Branch 012,Ashanti,Mampong,Akosua Antwi
+BR013,Mankessim Community Branch 013,Central,Mankessim,Mansa Badu
+BR014,Akosombo Commercial Branch 014,Eastern,Akosombo,Akosua Owusu
+BR015,Nkawkaw Central Branch 015,Eastern,Nkawkaw,Akosua Appiah
+BR016,Mampong Community Branch 016,Ashanti,Mampong,Adwoa Tetteh
+BR017,Tamale Commercial Branch 017,Northern,Tamale,Kwabena Badu
+BR018,Akosombo Central Branch 018,Eastern,Akosombo,Adwoa Asante
+BR019,Axim Community Branch 019,Western,Axim,Kojo Agyeman
+BR020,Bawku Commercial Branch 020,Upper East,Bawku,Adwoa Antwi
+BR021,Akosombo Central Branch 021,Eastern,Akosombo,Esi Owusu
+BR022,Koforidua Community Branch 022,EASTERN,Koforidua,Esi Acheampong
+BR023,Cape Coast Commercial Branch 023,Central,Cape Coast,Efua Sarpong
+BR024,Tamale Central Branch 024,Northern,Tamale,Akua Acheampong
+BR025,Bolgatanga Community Branch 025,Upper East,Bolgatanga,Adwoa Osei
+BR026,Akosombo Commercial Branch 026,Eastern,Akosombo,Yaa Antwi
+BR027,Mankessim Central Branch 027,Central,Mankessim,Fiifi Amankwah
+BR028,Keta Community Branch 028,Volta,Keta,Kojo Osei
+BR029,Berekum Commercial Branch 029,Bono,Berekum,Akosua Owusu
+BR030,Obuasi Central Branch 030,Ashanti,Obuasi,Yaw Amankwah
+BR031,Mampong Community Branch 031,Ashanti,Mampong,Afia Kwarteng
+BR032,Navrongo Commercial Branch 032,Upper East,Navrongo,Adwoa Antwi
+BR033,Accra Central Branch 033,GREATER ACCRA,Accra,Yaa Darko
+BR034,Tamale Community Branch 034,Northern,Tamale,Nana Amankwah
+BR035,Tarkwa Commercial Branch 035,Western,Tarkwa,Ama Darko
+BR036,Sunyani Central Branch 036,Bono,Sunyani,Ato Boateng
+BR037,Mankessim Community Branch 037,Central,Mankessim,Ato Kwarteng
+BR038,Koforidua Commercial Branch 038,Eastern,Koforidua,Kwabena Agyeman
+BR039,Dormaa Central Branch 039,Bono,Dormaa,Ama Kwarteng
+BR040,Yendi Community Branch 040,Northern,Yendi,Ama Boateng
+BR041,Yendi Commercial Branch 041,Northern,Yendi,Kojo Owusu
+BR042,Akosombo Central Branch 042,Eastern,Akosombo,Akosua Asante
+BR043,Bolgatanga Community Branch 043,Upper East,Bolgatanga,Yaa Osei
+BR044,Axim Commercial Branch 044,WESTERN,Axim,Akua Antwi
+BR045,Tarkwa Central Branch 045,Western,Tarkwa,Ato Kwarteng
+BR046,Ho Community Branch 046,Volta,Ho,Yaa Addo
+BR047,Winneba Commercial Branch 047,Central,Winneba,Kwabena Tetteh
+BR048,Berekum Central Branch 048,Bono,Berekum,Kofi Appiah
+BR049,Koforidua Community Branch 049,Eastern,Koforidua,Esi Mensah
+BR050,Sunyani Commercial Branch 050,Bono,Sunyani,Fiifi Appiah
+BR051,Accra Central Branch 051,Greater Accra,Accra,Kwame Appiah
+BR052,Kumasi Community Branch 052,Ashanti,Kumasi,Esi Asante
+BR053,Sunyani Commercial Branch 053,Bono,Sunyani,Adwoa Quaye
+BR054,Akosombo Central Branch 054,Eastern,Akosombo,Abena Sarpong
+BR055,Bolgatanga Community Branch 055,UPPER EAST,Bolgatanga,Akua Amankwah
+BR056,Koforidua Commercial Branch 056,Eastern,Koforidua,Kofi Amankwah
+BR057,Yendi Central Branch 057,Northern,Yendi,Kweku Tetteh
+BR058,Accra Community Branch 058,Greater Accra,Accra,Kwame Acheampong
+BR059,Tamale Commercial Branch 059,Northern,Tamale,Kojo Addo
+BR060,Akosombo Central Branch 060,Eastern,Akosombo,Mawuli Osei
+BR061,Ho Community Branch 061,Volta,Ho,Adwoa Tetteh
+BR062,Koforidua Commercial Branch 062,Eastern,Koforidua,Mawuli Antwi
+BR063,Kumasi Central Branch 063,Ashanti,Kumasi,Yaa Mensah
+BR064,Obuasi Community Branch 064,Ashanti,Obuasi,Yaw Amankwah
+BR065,Bawku Commercial Branch 065,Upper East,Bawku,Efua Acheampong
+BR066,Tema Central Branch 066,GREATER ACCRA,Tema,Afia Mensah
+BR067,Keta Community Branch 067,Volta,Keta,Mawuli Frimpong
+BR068,Hohoe Commercial Branch 068,Volta,Hohoe,Yaa Quaye
+BR069,Takoradi Central Branch 069,Western,Takoradi,Nana Addo
+BR070,Kasoa Community Branch 070,Greater Accra,Kasoa,Yaa Owusu
+BR071,Tamale Commercial Branch 071,Northern,Tamale,Kwame Sarpong
+BR072,Navrongo Central Branch 072,Upper East,Navrongo,Ato Agyeman
+BR073,Kasoa Community Branch 073,Greater Accra,Kasoa,Akosua Agyeman
+BR074,Kumasi Commercial Branch 074,Ashanti,Kumasi,Kojo Acheampong
+BR075,Obuasi Central Branch 075,Ashanti,Obuasi,Fiifi Kwarteng
+BR076,Kasoa Community Branch 076,Greater Accra,Kasoa,Akosua Amankwah
+BR077,Berekum Commercial Branch 077,BONO,Berekum,Adwoa Addo
+BR078,Tamale Central Branch 078,Northern,Tamale,Adwoa Acheampong
+BR079,Axim Community Branch 079,Western,Axim,Nana Tetteh
+BR080,Tamale Commercial Branch 080,Northern,Tamale,Ama Tetteh
+BR081,Kumasi Central Branch 081,Ashanti,Kumasi,Yaa Addo
+BR082,Berekum Community Branch 082,Bono,Berekum,Abena Badu
+BR083,Obuasi Commercial Branch 083,Ashanti,Obuasi,Kwabena Frimpong
+BR084,Tarkwa Central Branch 084,Western,Tarkwa,Yaa Frimpong
+BR085,Sunyani Community Branch 085,Bono,Sunyani,Yaa Frimpong
+BR086,Obuasi Commercial Branch 086,Ashanti,Obuasi,Adwoa Boateng
+BR087,Obuasi Central Branch 087,Ashanti,Obuasi,Adwoa Frimpong
+BR088,Akosombo Community Branch 088,EASTERN,Akosombo,Esi Addo
+BR089,Mankessim Commercial Branch 089,Central,Mankessim,Akua Darko
+BR090,Accra Central Branch 090,Greater Accra,Accra,Kweku Darko
+BR091,Accra Community Branch 091,Greater Accra,Accra,Esi Osei
+BR092,Cape Coast Commercial Branch 092,Central,Cape Coast,Mawuli Antwi
+BR093,Hohoe Central Branch 093,Volta,Hohoe,Ama Boateng
+BR094,Obuasi Community Branch 094,Ashanti,Obuasi,Yaa Owusu
+BR095,Savelugu Commercial Branch 095,Northern,Savelugu,Yaa Osei
+BR096,Ho Central Branch 096,Volta,Ho,Kwame Frimpong
+BR097,Tamale Community Branch 097,Northern,Tamale,Kwabena Addo
+BR098,Akosombo Commercial Branch 098,Eastern,Akosombo,Kofi Badu
+BR099,Berekum Central Branch 099,BONO,Berekum,Mansa Osei
+BR100,Koforidua Community Branch 100,Eastern,Koforidua,Yaw Amankwah
+BR101,Tema Commercial Branch 101,Greater Accra,Tema,Esi Amankwah
+BR102,Nkawkaw Central Branch 102,Eastern,Nkawkaw,Yaw Boateng
+BR103,Ho Community Branch 103,Volta,Ho,Akua Appiah
+BR104,Nkawkaw Commercial Branch 104,Eastern,Nkawkaw,Kwabena Frimpong
+BR105,Koforidua Central Branch 105,Eastern,Koforidua,Ama Addo
+BR106,Keta Community Branch 106,Volta,Keta,Adwoa Asante
+BR107,Winneba Commercial Branch 107,Central,Winneba,Ato Acheampong
+BR108,Berekum Central Branch 108,Bono,Berekum,Ama Boateng
+BR109,Cape Coast Community Branch 109,Central,Cape Coast,Fiifi Darko
+BR110,Accra Commercial Branch 110,GREATER ACCRA,Accra,Mansa Amankwah
+BR111,Savelugu Central Branch 111,Northern,Savelugu,Esi Amankwah
+BR112,Sunyani Community Branch 112,Bono,Sunyani,Afia Sarpong
+BR113,Nkawkaw Commercial Branch 113,Eastern,Nkawkaw,Kwame Amankwah
+BR114,Kasoa Central Branch 114,Greater Accra,Kasoa,Yaa Addo
+BR115,Yendi Community Branch 115,Northern,Yendi,Akosua Arthur
+BR116,Savelugu Commercial Branch 116,Northern,Savelugu,Kofi Frimpong
+BR117,Berekum Central Branch 117,Bono,Berekum,Kweku Arthur
+BR118,Hohoe Community Branch 118,Volta,Hohoe,Nana Antwi
+BR119,Takoradi Commercial Branch 119,Western,Takoradi,Kweku Acheampong
+BR120,Axim Central Branch 120,Western,Axim,Fiifi Frimpong

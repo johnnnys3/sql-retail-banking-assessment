@@ -1,0 +1,1201 @@
+Transaction_ID,Account_ID,Transaction_Date,Transaction_Type,Transaction_Amount,Transaction_Channel,Transaction_Status,Merchant_Category
+T0000001,A00053,2026-03-13,Transfer,12740.52,ATM,Successful,Retail
+T0000002,A00127,2024-05-25,Withdrawal,6030.84,Internet Banking,Failed,Groceries
+T0000003,A00093,2026-05-11,Reversal,3303.91,ATM,Successful,Fuel
+T0000004,A00196,2024-05-29,Transfer,24684.22,Mobile App,Successful,Groceries
+T0000005,A00068,2026-03-26,Deposit,23064.87,Internet Banking,Successful,Telecom
+T0000006,A00197,2024-06-17,Withdrawal,17546.76,POS,Successful,
+T0000007,A00040,2025-02-20,Withdrawal,7751.12,USSD,Successful,Education
+T0000008,A00151,2024-05-15,Transfer,20863.99,ATM,Successful,Retail
+T0000009,A00015,2024-08-25,Withdrawal,23116.07,Branch,Successful,Groceries
+T0000010,A00080,2024-12-25,Payment,16453.02,Mobile App,Successful,Fuel
+T0000011,A00180,2025-12-11,Deposit,12412.84,Internet Banking,Successful,Travel
+T0000012,A00043,2025-07-04,Withdrawal,18745.66,POS,Failed,Groceries
+T0000013,A00086,2024-05-10,Payment,6803.15,ATM,Successful,
+T0000014,A00161,2026-01-07,Deposit,11382.67,Mobile App,Successful,
+T0000015,A00043,2024-07-29,Withdrawal,6381.63,Internet Banking,Successful,Utilities
+T0000016,A00059,2024-01-26,Payment,69.2,USSD,Successful,Healthcare
+T0000017,A00099,2024-03-13,Reversal,4478.13,Internet Banking,Successful,Education
+T0000018,A00058,2025-10-17,Withdrawal,10409.33,ATM,Successful,
+T0000019,A00096,2024-04-17,Deposit,16834.78,USSD,Successful,Telecom
+T0000020,A00012,2026-08-10,Reversal,-1727.82,ATM,Successful,Travel
+T0000021,A00084,2026-01-25,Deposit,11421.37,USSD,Successful,Travel
+T0000022,A00190,2026-10-07,Transfer,11600.85,USSD,Successful,Telecom
+T0000023,A00195,2026-04-19,Payment,3768.41,Mobile App,Successful,Healthcare
+T0000024,A00163,2025-11-17,Payment,21930.58,Mobile App,Successful,Education
+T0000025,A00218,2025-02-24,Payment,7691.23,Internet Banking,Reversed,Education
+T0000026,A00126,2024-10-18,Reversal,24314.12,POS,Successful,Groceries
+T0000027,A00060,2026-02-01,Fee,12996.38,Branch,Reversed,Utilities
+T0000028,A00149,2026-03-18,Deposit,3342.18,Mobile App,Successful,Groceries
+T0000029,A00112,2025-08-20,Payment,3272.05,ATM,Failed,Education
+T0000030,A00180,2026-07-16,Payment,8159.66,ATM,Successful,Retail
+T0000031,A00035,2024-11-14,Payment,14619.78,Mobile App,Successful,Restaurants
+T0000032,A00081,2025-03-01,Withdrawal,13400.43,Branch,Successful,Travel
+T0000033,A00219,2025-09-15,Deposit,3944.6,POS,Successful,Groceries
+T0000034,A00056,2024-07-05,Payment,8198.2,POS,Successful,Healthcare
+T0000035,A00102,2025-06-16,Transfer,16931.2,USSD,Successful,Education
+T0000036,A00219,2025-05-26,Transfer,18703.22,Mobile App,Successful,Fuel
+T0000037,A00032,2025-03-31,Deposit,20760.16,USSD,Successful,Education
+T0000038,A00096,2024-06-21,Payment,23439.68,Internet Banking,Successful,Utilities
+T0000039,A00006,2026-06-27,Reversal,4947.77,USSD,Successful,Healthcare
+T0000040,A00032,2024-12-10,Deposit,11527.57,Internet Banking,Successful,Education
+T0000041,A00128,2024-12-19,DEPOSIT,17081.91,ATM,Successful,Fuel
+T0000042,A00071,2024-03-11,Withdrawal,22086.18,Internet Banking,Successful,Retail
+T0000043,A00166,2026-09-08,Withdrawal,10302.75,Mobile App,Successful,Education
+T0000044,A00036,2025-05-25,Withdrawal,16068.1,POS,Reversed,Telecom
+T0000045,A00204,2026-01-05,Deposit,9565.54,Branch,Successful,Restaurants
+T0000046,A00089,2026-03-06,Fee,12562.32,ATM,Successful,Healthcare
+T0000047,A00153,2025-07-29,Deposit,22394.64,Mobile App,Successful,Restaurants
+T0000048,A00136,2025-04-21,Withdrawal,14601.8,USSD,Successful,Retail
+T0000049,A00069,2024-04-24,Transfer,19781.97,USSD,Successful,Education
+T0000050,A00091,2024-12-21,Reversal,24788.59,USSD,Successful,Healthcare
+T0000051,A00207,2024-02-27,Payment,8972.78,POS,Successful,
+T0000052,A00145,2026-10-05,Deposit,23709.47,Internet Banking,Successful,Restaurants
+T0000053,A00010,2025-03-24,Deposit,5819.42,Mobile App,Successful,Groceries
+T0000054,A00085,2024-09-24,Fee,5040.6,ATM,Successful,Healthcare
+T0000055,A00016,2024-10-17,Deposit,14667.3,Mobile App,Failed,Healthcare
+T0000056,A00019,2026-03-21,Withdrawal,23548.37,Internet Banking,Successful,Travel
+T0000057,A00083,2026-06-13,Deposit,3941.81,POS,Reversed,Healthcare
+T0000058,A00045,2025-12-31,Payment,14051.62,USSD,Successful,Fuel
+T0000059,A00097,2024-09-17,Withdrawal,17214.02,USSD,Successful,
+T0000060,A00101,2024-03-07,Fee,19271.91,USSD,Successful,
+T0000061,A00057,2026-10-13,Transfer,2607.24,USSD,Successful,Utilities
+T0000062,A00061,2024-06-30,Withdrawal,7991.37,POS,Successful,Healthcare
+T0000063,A00115,2024-05-18,Deposit,5246.06,ATM,Successful,Utilities
+T0000064,A00185,2026-05-09,Deposit,9651.5,USSD,Failed,Restaurants
+T0000065,A00097,2026-09-08,Withdrawal,9386.81,Internet Banking,Successful,Retail
+T0000066,A00042,2024-03-09,Transfer,19980.87,ATM,Successful,Travel
+T0000067,A00027,2026-02-07,Deposit,4256.78,USSD,Successful,Telecom
+T0000068,A00024,2026-09-15,Withdrawal,24631.98,POS,Successful,Fuel
+T0000069,A00156,2024-07-26,Fee,3931.81,ATM,Successful,Retail
+T0000070,A00105,2025-06-27,Payment,18052.34,POS,Successful,Retail
+T0000071,A00025,2026-10-02,Deposit,14296.39,USSD,Successful,Groceries
+T0000072,A00110,2026-09-10,Deposit,20598.31,USSD,Successful,Retail
+T0000073,A00044,2026-08-27,Transfer,24426.56,Mobile App,Successful,Education
+T0000074,A00121,2024-07-05,Transfer,16527.7,POS,Successful,Fuel
+T0000075,A00095,2026-07-01,Fee,9238.19,Mobile App,Successful,Restaurants
+T0000076,A00068,2024-05-06,Deposit,6717.71,USSD,Successful,Utilities
+T0000077,A00022,2026-04-27,Payment,20205.46,Internet Banking,Successful,Groceries
+T0000078,A00216,2026-08-30,Withdrawal,13066.94,Internet Banking,Failed,Restaurants
+T0000079,A00077,2024-03-12,Deposit,22569.92,Internet Banking,Successful,Telecom
+T0000080,A00205,2024-10-28,Transfer,24568.96,Mobile App,Pending,Restaurants
+T0000081,A00045,2025-03-09,Reversal,4183.28,USSD,Successful,Education
+T0000082,A00021,2024-10-29,REVERSAL,10887.65,Internet Banking,Successful,Utilities
+T0000083,A00023,2025-10-29,Withdrawal,9936.89,ATM,Successful,Groceries
+T0000084,A00202,2026-05-09,Payment,14691.46,Mobile App,Successful,Fuel
+T0000085,A00146,2024-07-24,Transfer,18960.64,Mobile App,Successful,Utilities
+T0000086,A00202,2025-12-05,Withdrawal,13393.16,Branch,Successful,Restaurants
+T0000087,A00147,2025-07-18,Transfer,941.45,Branch,Successful,
+T0000088,A00175,2025-11-09,Payment,974.37,POS,Successful,Restaurants
+T0000089,A00069,2025-09-12,Fee,510.72,ATM,Successful,Restaurants
+T0000090,A00220,2025-04-11,Payment,2459.94,USSD,Successful,Restaurants
+T0000091,A00199,2026-05-03,Payment,6739.15,Internet Banking,Successful,Retail
+T0000092,A00114,2026-09-19,Deposit,20600.12,Internet Banking,Failed,Groceries
+T0000093,A00132,2026-04-06,Payment,1645.1,USSD,Successful,Telecom
+T0000094,A00146,2025-02-15,Deposit,4823.12,Mobile App,Successful,Restaurants
+T0000095,A00013,2025-07-15,Fee,17617.33,ATM,Successful,Telecom
+T0000096,A00102,2024-03-03,Transfer,3101.2,USSD,Successful,
+T0000097,A00115,2025-12-17,Deposit,94016.02,ATM,Successful,Travel
+T0000098,A00192,2024-02-26,Payment,2264.35,Branch,Successful,
+T0000099,A00200,2025-04-06,Reversal,21428.49,POS,Successful,Education
+T0000100,A00132,2024-01-19,Deposit,19508.69,Branch,Pending,Fuel
+T0000101,A00154,2025-09-17,Payment,5598.13,POS,Reversed,Travel
+T0000102,A00109,2026-07-29,Fee,21290.4,ATM,Successful,Travel
+T0000103,A00174,2024-07-28,Transfer,15592.03,Mobile App,Successful,Healthcare
+T0000104,A00144,2025-09-03,Payment,15228.21,POS,Successful,Utilities
+T0000105,A00087,2025-07-21,Reversal,16016.67,ATM,Successful,Travel
+T0000106,A00049,2024-04-26,Deposit,19138.03,Internet Banking,Successful,Healthcare
+T0000107,A00175,2026-10-15,Deposit,641.25,ATM,Successful,Education
+T0000108,A00104,2025-01-23,Withdrawal,887.8,ATM,Successful,Retail
+T0000109,A00176,2026-01-04,Transfer,19623.5,Internet Banking,Successful,Fuel
+T0000110,A00216,2025-08-24,Payment,13958.41,Mobile App,Successful,Travel
+T0000111,A00186,2025-01-09,Payment,19074.14,POS,Failed,Utilities
+T0000112,A00057,2025-09-20,Withdrawal,18606.53,Branch,Successful,Healthcare
+T0000113,A00096,2024-08-29,Withdrawal,7354.81,Branch,Successful,
+T0000114,A00149,2025-02-02,Reversal,1785.04,Internet Banking,Successful,Education
+T0000115,A00136,2024-11-04,Withdrawal,1356.28,USSD,Reversed,Healthcare
+T0000116,A00105,2026-07-26,Reversal,-22321.66,USSD,Successful,Fuel
+T0000117,A00200,2024-12-28,Deposit,8319.07,ATM,Successful,Groceries
+T0000118,A00116,2024-12-11,Withdrawal,19031.03,Internet Banking,Successful,Restaurants
+T0000119,A00202,2026-06-07,Payment,2205.59,POS,Successful,Education
+T0000120,A00123,2025-02-12,Withdrawal,947.94,POS,Successful,Groceries
+T0000121,A00083,2024-02-06,Payment,13278.19,POS,Successful,Retail
+T0000122,A00058,2024-09-21,Payment,8612.02,Mobile App,Successful,
+T0000123,A00079,2025-09-02,DEPOSIT,20596.98,ATM,Successful,Telecom
+T0000124,A00153,2024-10-01,Transfer,10844.46,ATM,Reversed,Restaurants
+T0000125,A00092,2026-04-06,Payment,4126.26,Mobile App,Successful,Fuel
+T0000126,A00055,2024-12-12,Payment,14744.37,Mobile App,Successful,Groceries
+T0000127,A00097,2024-04-09,Fee,6398.45,Internet Banking,Reversed,Utilities
+T0000128,A00168,2024-08-25,Payment,1210.64,Branch,Successful,Utilities
+T0000129,A00141,2025-02-24,Withdrawal,17548.2,POS,Successful,Groceries
+T0000130,A00078,2025-07-06,Withdrawal,2528.99,Internet Banking,Successful,Fuel
+T0000131,A00108,2024-08-29,Payment,2627.33,ATM,Successful,Utilities
+T0000132,A00128,2025-06-22,Deposit,4997.74,Internet Banking,Reversed,Healthcare
+T0000133,A00181,2026-10-13,Withdrawal,4013.54,USSD,Successful,Restaurants
+T0000134,A00085,2024-07-01,Deposit,323.67,Mobile App,Successful,Restaurants
+T0000135,A00039,2024-06-02,Reversal,19489.26,POS,Successful,Travel
+T0000136,A00165,2025-08-29,Deposit,24716.7,ATM,Successful,Utilities
+T0000137,A00209,2025-08-18,Deposit,990.92,ATM,Successful,Healthcare
+T0000138,A00110,2024-04-03,Payment,2379.49,Mobile App,Failed,Fuel
+T0000139,A00085,2025-07-03,Withdrawal,10945.67,POS,Successful,Healthcare
+T0000140,A00047,2026-07-23,Deposit,10009.25,ATM,Successful,Restaurants
+T0000141,A00205,2024-12-07,Withdrawal,22153.67,Mobile App,Successful,Groceries
+T0000142,A00217,2026-09-15,Deposit,10403.61,Internet Banking,Successful,Fuel
+T0000143,A00157,2024-02-29,Withdrawal,8968.18,POS,Failed,Fuel
+T0000144,A00124,2026-04-22,Reversal,-2827.87,Branch,Successful,Travel
+T0000145,A00168,2025-04-03,Withdrawal,17615.68,POS,Failed,Telecom
+T0000146,A00134,2026-06-05,Payment,15457.88,POS,Successful,Restaurants
+T0000147,A00089,2024-10-31,Payment,16036.9,Internet Banking,Failed,
+T0000148,A00014,2026-08-19,Deposit,23359.61,Branch,Failed,Utilities
+T0000149,A00193,2025-07-23,Transfer,6026.09,Mobile App,Successful,Telecom
+T0000150,A00165,2024-06-10,Withdrawal,20428.5,Branch,Successful,
+T0000151,A00115,2025-10-09,Deposit,12463.91,Mobile App,Reversed,Groceries
+T0000152,A00027,2024-01-01,Withdrawal,900.62,Mobile App,Successful,
+T0000153,A00164,2025-02-27,Withdrawal,12710.9,POS,Successful,Healthcare
+T0000154,A00094,2026-07-19,Payment,20415.63,ATM,Successful,
+T0000155,A00154,2026-07-15,Transfer,16430.89,Mobile App,Successful,Retail
+T0000156,A00001,2025-08-20,Withdrawal,20747.95,Internet Banking,Successful,Utilities
+T0000157,A00012,2026-04-18,Fee,12313.09,Mobile App,Successful,Retail
+T0000158,A00049,2025-03-17,Deposit,21305.6,Branch,Successful,Retail
+T0000159,A00184,2024-04-05,Withdrawal,18929.95,POS,Successful,
+T0000160,A00032,2026-10-29,Payment,11265.36,USSD,Reversed,Groceries
+T0000161,A00136,2026-06-05,Payment,13832.89,Internet Banking,Successful,Telecom
+T0000162,A00200,2024-12-21,Reversal,4434.17,POS,Successful,Utilities
+T0000163,A00100,2025-10-21,Payment,15155.99,Internet Banking,Failed,Education
+T0000164,A00156,2025-07-14,FEE,19060.55,Branch,Reversed,Travel
+T0000165,A00116,2025-09-04,Payment,3458.81,POS,Successful,Healthcare
+T0000166,A00183,2025-03-21,Payment,13841.77,USSD,Successful,Travel
+T0000167,A00176,2024-12-30,Withdrawal,16810.98,Internet Banking,Successful,Healthcare
+T0000168,A00182,2026-09-10,Deposit,8809.18,Internet Banking,Successful,Education
+T0000169,A00173,2025-08-08,Payment,21035.53,Branch,Successful,Telecom
+T0000170,A00028,2024-04-25,Deposit,3637.44,USSD,Successful,Fuel
+T0000171,A00074,2024-05-07,Payment,3664.98,POS,Successful,Retail
+T0000172,A00193,2026-07-15,Transfer,8970.27,Mobile App,Successful,Telecom
+T0000173,A00058,2025-05-01,Payment,14033.96,Internet Banking,Successful,Travel
+T0000174,A00178,2026-03-04,Payment,23162.49,Branch,Pending,Healthcare
+T0000175,A00142,2025-02-19,Deposit,18593.03,Internet Banking,Failed,Restaurants
+T0000176,A00213,2026-01-23,Deposit,15846.54,Internet Banking,Successful,
+T0000177,A00051,2025-08-25,Payment,24107.42,Branch,Successful,Utilities
+T0000178,A00048,2024-09-01,Reversal,18378.31,Branch,Successful,Travel
+T0000179,A00143,2025-06-06,Withdrawal,4027.42,Mobile App,Successful,Fuel
+T0000180,A00011,2024-04-14,Deposit,8069.14,POS,Successful,Travel
+T0000181,A00126,2024-05-29,Payment,13756.25,POS,Successful,Retail
+T0000182,A00048,2024-11-22,Transfer,19657.52,Branch,Successful,Education
+T0000183,A00024,2025-11-10,Withdrawal,22085.5,ATM,Successful,Retail
+T0000184,A00193,2024-01-19,Transfer,11874.06,Mobile App,Successful,Restaurants
+T0000185,A00062,2025-05-14,Fee,15344.46,Mobile App,Successful,Healthcare
+T0000186,A00098,2026-03-01,Fee,23624.97,ATM,Successful,Travel
+T0000187,A00007,2026-02-06,Fee,20553.62,Internet Banking,Successful,Restaurants
+T0000188,A00125,2025-01-29,Deposit,22457.55,ATM,Successful,Utilities
+T0000189,A00043,2024-01-16,Reversal,19334.1,POS,Successful,Retail
+T0000190,A00176,2026-06-10,Withdrawal,2602.65,POS,Successful,Utilities
+T0000191,A00192,2025-11-10,Payment,598.7,Mobile App,Successful,Groceries
+T0000192,A00046,2025-04-11,Payment,13954.31,ATM,Successful,Restaurants
+T0000193,A00162,2026-03-08,Withdrawal,7913.52,POS,Successful,Groceries
+T0000194,A00165,2024-04-03,Payment,105946.33,POS,Failed,Healthcare
+T0000195,A00129,2025-09-09,Deposit,19673.36,Internet Banking,Successful,Restaurants
+T0000196,A00098,2026-08-28,Withdrawal,16519.78,USSD,Successful,Fuel
+T0000197,A00192,2025-08-27,Withdrawal,19938.13,POS,Successful,Healthcare
+T0000198,A00003,2024-09-09,Transfer,13878.97,Mobile App,Successful,
+T0000199,A00101,2025-09-16,Transfer,23674.75,USSD,Successful,Healthcare
+T0000200,A00055,2024-10-18,Withdrawal,16150.06,USSD,Successful,
+T0000201,A00214,2024-04-21,Withdrawal,2869.99,Internet Banking,Successful,Telecom
+T0000202,A00019,2024-07-20,Withdrawal,1688.73,USSD,Successful,Restaurants
+T0000203,A00085,2025-04-25,Withdrawal,16784.03,Mobile App,Successful,Utilities
+T0000204,A00050,2025-09-18,Withdrawal,11268.9,POS,Successful,
+T0000205,A00146,2026-05-27,WITHDRAWAL,7911.75,USSD,Successful,Retail
+T0000206,A00202,2026-06-12,Deposit,18496.71,ATM,Failed,Fuel
+T0000207,A00174,2026-08-05,Payment,21947.76,Branch,Successful,Travel
+T0000208,A00125,2024-06-16,Transfer,4398.38,ATM,Failed,Fuel
+T0000209,A00138,2024-06-05,Deposit,18339.95,POS,Successful,Groceries
+T0000210,A00218,2026-04-09,Transfer,784.7,Internet Banking,Successful,Groceries
+T0000211,A00142,2026-08-24,Withdrawal,22350.18,POS,Successful,Healthcare
+T0000212,A00101,2025-08-18,Deposit,19304.76,USSD,Successful,Telecom
+T0000213,A00024,2025-05-04,Withdrawal,12556.67,Internet Banking,Successful,Telecom
+T0000214,A00036,2024-10-26,Transfer,4482.73,POS,Successful,Healthcare
+T0000215,A00011,2024-05-08,Deposit,12193.62,ATM,Successful,Groceries
+T0000216,A00172,2026-01-09,Deposit,22693.61,Branch,Successful,Restaurants
+T0000217,A00012,2024-07-30,Deposit,16214.88,POS,Reversed,Travel
+T0000218,A00214,2024-12-22,Payment,14467.89,Branch,Successful,Healthcare
+T0000219,A00151,2025-05-30,Payment,20887.55,Branch,Reversed,Retail
+T0000220,A00133,2025-12-07,Withdrawal,20431.83,Branch,Successful,
+T0000221,A00002,2024-12-05,Transfer,3478.51,USSD,Successful,Travel
+T0000222,A00055,2024-08-30,Deposit,3938.15,POS,Successful,Healthcare
+T0000223,A00185,2026-09-08,Deposit,16882.36,USSD,Successful,Education
+T0000224,A00006,2024-11-25,Withdrawal,3201.49,USSD,Successful,Groceries
+T0000225,A00147,2025-01-03,Deposit,4162.7,Internet Banking,Pending,
+T0000226,A00145,2025-08-03,Transfer,21963.33,Mobile App,Successful,
+T0000227,A00121,2026-04-21,Fee,4268.32,Internet Banking,Successful,
+T0000228,A00211,2025-06-25,Payment,15582.18,USSD,Successful,Healthcare
+T0000229,A00117,2026-02-13,Transfer,1725.73,Branch,Successful,Groceries
+T0000230,A00052,2026-05-09,Transfer,22733.93,USSD,Successful,Fuel
+T0000231,A00122,2026-10-27,Fee,14997.35,Mobile App,Successful,Fuel
+T0000232,A00155,2026-06-02,Transfer,35.0,Internet Banking,Successful,Groceries
+T0000233,A00179,2026-09-14,Transfer,5741.01,Branch,Successful,
+T0000234,A00026,2025-04-21,Withdrawal,6366.68,Mobile App,Successful,Telecom
+T0000235,A00105,2024-01-15,Withdrawal,141.71,Internet Banking,Successful,Telecom
+T0000236,A00002,2025-10-08,Withdrawal,5139.44,Branch,Successful,Fuel
+T0000237,A00110,2026-05-17,Payment,6344.55,Internet Banking,Successful,Travel
+T0000238,A00175,2026-09-15,Withdrawal,5096.32,USSD,Successful,Telecom
+T0000239,A00124,2025-12-06,Withdrawal,7669.79,POS,Successful,Fuel
+T0000240,A00219,2025-04-15,Fee,2981.55,Branch,Successful,Fuel
+T0000241,A00026,2025-11-24,Deposit,10017.02,Internet Banking,Successful,Groceries
+T0000242,A00042,2024-07-05,Withdrawal,15898.74,USSD,Successful,
+T0000243,A00112,2026-01-29,Deposit,6580.98,Mobile App,Successful,Education
+T0000244,A00103,2024-04-27,Transfer,13027.53,USSD,Successful,Restaurants
+T0000245,A00003,2025-08-08,Deposit,16423.82,USSD,Successful,
+T0000246,A00131,2024-12-13,TRANSFER,5795.62,POS,Successful,Retail
+T0000247,A00168,2025-07-19,Deposit,3940.33,Branch,Successful,Education
+T0000248,A00104,2024-05-20,Transfer,12945.98,Mobile App,Successful,Telecom
+T0000249,A00150,2025-07-20,Withdrawal,24082.38,USSD,Successful,Retail
+T0000250,A00117,2025-06-18,Reversal,14374.79,USSD,Successful,Utilities
+T0000251,A00144,2024-08-27,Deposit,7359.82,Internet Banking,Pending,Telecom
+T0000252,A00209,2026-06-25,Payment,6257.29,Branch,Successful,Retail
+T0000253,A00194,2026-08-01,Withdrawal,19391.09,Internet Banking,Failed,Restaurants
+T0000254,A00030,2025-03-27,Withdrawal,9569.92,POS,Successful,Healthcare
+T0000255,A00106,2024-01-20,Reversal,12915.02,POS,Successful,Retail
+T0000256,A00074,2025-12-01,Deposit,16844.08,Mobile App,Successful,Fuel
+T0000257,A00122,2025-07-05,Withdrawal,5468.06,USSD,Pending,Retail
+T0000258,A00128,2025-05-10,Payment,5875.36,ATM,Successful,Retail
+T0000259,A00214,2024-11-15,Withdrawal,15466.83,Mobile App,Successful,Utilities
+T0000260,A00174,2024-01-14,Reversal,-12319.16,Internet Banking,Pending,Restaurants
+T0000261,A00096,2025-07-16,Transfer,12311.05,Branch,Successful,Telecom
+T0000262,A00072,2024-09-19,Withdrawal,18755.48,Mobile App,Successful,Education
+T0000263,A00123,2025-12-12,Reversal,818.9,Branch,Failed,Fuel
+T0000264,A00118,2026-07-31,Reversal,-17457.62,ATM,Successful,Groceries
+T0000265,A00173,2025-10-28,Deposit,14527.3,ATM,Successful,Travel
+T0000266,A00048,2026-08-23,Transfer,5932.29,Internet Banking,Successful,Fuel
+T0000267,A00128,2026-02-01,Withdrawal,10480.23,ATM,Failed,Travel
+T0000268,A00116,2025-04-13,Deposit,3282.82,Mobile App,Successful,Retail
+T0000269,A00143,2024-10-25,Withdrawal,9525.18,POS,Successful,Groceries
+T0000270,A00046,2025-10-08,Withdrawal,3366.12,Branch,Successful,Telecom
+T0000271,A00220,2024-11-30,Transfer,9963.06,Mobile App,Successful,Travel
+T0000272,A00122,2025-11-16,Payment,2412.07,ATM,Successful,Telecom
+T0000273,A00143,2024-02-10,Reversal,6446.58,Branch,Successful,
+T0000274,A00051,2024-12-23,Transfer,16248.39,ATM,Successful,Telecom
+T0000275,A00125,2024-06-09,Payment,11176.02,Branch,Successful,Restaurants
+T0000276,A00162,2025-11-21,Reversal,-21707.1,Branch,Successful,
+T0000277,A00104,2024-11-27,Fee,1788.25,ATM,Successful,Healthcare
+T0000278,A00168,2026-03-20,Withdrawal,6690.47,ATM,Failed,Healthcare
+T0000279,A00192,2026-04-27,Transfer,24138.32,USSD,Successful,Groceries
+T0000280,A00033,2024-06-12,Payment,16552.25,USSD,Successful,Utilities
+T0000281,A00025,2024-04-20,Deposit,21967.88,Mobile App,Successful,Telecom
+T0000282,A00196,2024-11-14,Reversal,2602.69,Mobile App,Successful,Education
+T0000283,A00080,2026-06-26,Deposit,18441.14,POS,Successful,Telecom
+T0000284,A00215,2025-12-31,Deposit,883.7,ATM,Failed,Restaurants
+T0000285,A00139,2024-10-03,Reversal,13715.89,POS,Successful,
+T0000286,A00153,2026-06-09,Transfer,18724.05,Internet Banking,Successful,Telecom
+T0000287,A00080,2025-04-10,FEE,12043.88,Mobile App,Successful,Healthcare
+T0000288,A00106,2024-01-01,Withdrawal,7592.81,Internet Banking,Successful,Fuel
+T0000289,A00089,2026-10-04,Withdrawal,13379.8,Branch,Successful,Education
+T0000290,A00205,2024-01-15,Withdrawal,5784.23,Internet Banking,Successful,Education
+T0000291,A00144,2026-03-09,Withdrawal,103620.35,Branch,Successful,Utilities
+T0000292,A00109,2025-07-10,Transfer,12917.67,ATM,Successful,Telecom
+T0000293,A00208,2024-05-20,Withdrawal,4704.08,USSD,Successful,Utilities
+T0000294,A00164,2026-10-04,Transfer,11321.92,USSD,Successful,Fuel
+T0000295,A00013,2024-07-28,Reversal,558.16,ATM,Successful,Restaurants
+T0000296,A00187,2024-01-31,Deposit,2259.47,Branch,Successful,Education
+T0000297,A00080,2026-01-30,Payment,12462.4,Branch,Successful,Groceries
+T0000298,A00085,2024-10-26,Deposit,18765.49,Mobile App,Successful,Education
+T0000299,A00019,2025-05-27,Transfer,4544.19,Branch,Successful,Utilities
+T0000300,A00197,2026-06-26,Payment,9623.02,USSD,Successful,Groceries
+T0000301,A00051,2025-03-02,Transfer,19276.04,Branch,Successful,Travel
+T0000302,A00083,2024-09-07,Deposit,18207.29,ATM,Successful,Travel
+T0000303,A00051,2025-03-22,Withdrawal,1306.93,Mobile App,Successful,Education
+T0000304,A00084,2024-09-02,Deposit,19860.79,Branch,Successful,Groceries
+T0000305,A00011,2024-11-13,Transfer,17270.33,ATM,Successful,Retail
+T0000306,A00041,2025-11-24,Transfer,17150.19,POS,Successful,Healthcare
+T0000307,A00166,2024-08-07,Deposit,13411.15,USSD,Successful,Healthcare
+T0000308,A00143,2026-06-17,Payment,18918.65,POS,Successful,Education
+T0000309,A00092,2024-03-21,Payment,6271.15,Branch,Successful,Telecom
+T0000310,A00076,2025-01-17,Transfer,12254.85,Internet Banking,Successful,Restaurants
+T0000311,A00071,2024-11-24,Fee,14969.01,Mobile App,Successful,Restaurants
+T0000312,A00076,2026-07-18,Payment,13542.44,Mobile App,Successful,Telecom
+T0000313,A00098,2026-01-15,Payment,22073.89,Internet Banking,Successful,Utilities
+T0000314,A00169,2025-01-23,Reversal,20477.15,Internet Banking,Successful,Telecom
+T0000315,A00040,2025-10-21,Transfer,8068.39,Mobile App,Successful,Utilities
+T0000316,A00012,2024-03-05,Payment,3248.71,USSD,Successful,Retail
+T0000317,A00026,2026-03-06,Deposit,16045.58,POS,Successful,
+T0000318,A00180,2025-03-28,Transfer,1231.9,Internet Banking,Successful,Groceries
+T0000319,A00054,2024-06-12,Payment,23210.45,Branch,Successful,Groceries
+T0000320,A00093,2026-05-01,Transfer,23456.41,ATM,Successful,Groceries
+T0000321,A00211,2024-05-24,Transfer,13227.88,ATM,Successful,Retail
+T0000322,A00133,2026-02-28,Deposit,18130.67,USSD,Successful,Retail
+T0000323,A00146,2026-04-30,Transfer,4476.55,POS,Successful,
+T0000324,A00092,2026-05-24,Payment,17565.25,Mobile App,Successful,Fuel
+T0000325,A00141,2024-11-19,Withdrawal,8441.13,Internet Banking,Reversed,Restaurants
+T0000326,A00091,2025-10-26,Fee,13754.28,ATM,Successful,Education
+T0000327,A00212,2025-03-14,Payment,15212.29,Branch,Successful,Travel
+T0000328,A00093,2026-03-24,REVERSAL,-11190.26,Mobile App,Successful,Travel
+T0000329,A00153,2025-09-10,Deposit,3381.47,Mobile App,Successful,Retail
+T0000330,A00055,2025-07-19,Fee,547.43,Internet Banking,Successful,
+T0000331,A00147,2025-12-29,Deposit,948.22,USSD,Successful,Healthcare
+T0000332,A00150,2025-09-07,Withdrawal,6409.81,Mobile App,Successful,
+T0000333,A00056,2026-09-15,Payment,18090.9,USSD,Successful,
+T0000334,A00210,2025-09-07,Fee,14882.8,Mobile App,Successful,
+T0000335,A00098,2025-11-15,Deposit,1402.79,ATM,Failed,Education
+T0000336,A00107,2025-04-09,Reversal,-3017.91,POS,Successful,
+T0000337,A00003,2024-04-20,Transfer,15806.68,ATM,Successful,Healthcare
+T0000338,A00139,2025-03-28,Transfer,8174.16,USSD,Successful,Education
+T0000339,A00115,2024-07-03,Payment,14383.5,USSD,Successful,Education
+T0000340,A00038,2024-04-10,Deposit,2068.22,Internet Banking,Successful,Utilities
+T0000341,A00103,2024-09-24,Transfer,19346.76,USSD,Successful,Retail
+T0000342,A00125,2025-05-19,Withdrawal,14285.41,USSD,Successful,Education
+T0000343,A00083,2024-08-18,Payment,14402.58,POS,Successful,Healthcare
+T0000344,A00090,2024-02-19,Deposit,8616.4,ATM,Successful,Healthcare
+T0000345,A00158,2024-10-25,Payment,20070.89,Branch,Successful,Retail
+T0000346,A00052,2024-06-24,Payment,3904.0,Mobile App,Successful,Retail
+T0000347,A00159,2025-08-12,Reversal,21719.47,Mobile App,Successful,Utilities
+T0000348,A00079,2025-03-04,Transfer,573.59,POS,Successful,Retail
+T0000349,A00140,2026-09-16,Transfer,6470.16,Internet Banking,Successful,Fuel
+T0000350,A00178,2024-03-30,Payment,464.62,ATM,Successful,Travel
+T0000351,A00052,2024-04-18,Payment,15451.03,Branch,Successful,Groceries
+T0000352,A00018,2026-01-07,Withdrawal,6786.4,Mobile App,Successful,Education
+T0000353,A00060,2024-07-22,Reversal,12715.97,ATM,Successful,
+T0000354,A00137,2026-07-26,Deposit,4975.89,Internet Banking,Pending,Groceries
+T0000355,A00011,2025-11-14,Withdrawal,13237.74,Branch,Successful,Fuel
+T0000356,A00005,2025-09-11,Withdrawal,8801.07,USSD,Reversed,Telecom
+T0000357,A00071,2026-03-03,Payment,15646.68,Mobile App,Pending,Travel
+T0000358,A00058,2024-10-08,Deposit,22429.9,Mobile App,Successful,Telecom
+T0000359,A00174,2025-04-10,Transfer,15639.99,Branch,Successful,Fuel
+T0000360,A00110,2025-11-05,Reversal,-22743.84,Branch,Successful,Retail
+T0000361,A00168,2025-02-18,Deposit,13536.14,USSD,Successful,Telecom
+T0000362,A00035,2024-10-24,Withdrawal,22725.51,POS,Pending,Fuel
+T0000363,A00082,2024-08-30,Deposit,13326.37,USSD,Successful,Fuel
+T0000364,A00187,2026-04-27,Deposit,7970.59,Branch,Successful,Travel
+T0000365,A00039,2025-01-13,Payment,2673.75,Mobile App,Successful,
+T0000366,A00158,2025-04-17,Withdrawal,14178.24,Internet Banking,Successful,Groceries
+T0000367,A00092,2024-10-01,Deposit,19496.76,Internet Banking,Failed,Restaurants
+T0000368,A00183,2026-03-04,Payment,4603.49,Branch,Successful,Fuel
+T0000369,A00050,2024-01-31,DEPOSIT,10217.69,ATM,Pending,Retail
+T0000370,A00191,2025-02-22,Payment,5074.83,Mobile App,Successful,Restaurants
+T0000371,A00158,2026-07-26,Transfer,8125.77,USSD,Successful,Groceries
+T0000372,A00156,2025-10-02,Payment,9512.45,Branch,Successful,
+T0000373,A00153,2024-03-19,Transfer,16036.64,Internet Banking,Successful,Restaurants
+T0000374,A00212,2025-05-18,Fee,21945.11,Internet Banking,Successful,Groceries
+T0000375,A00143,2024-04-10,Withdrawal,19130.17,USSD,Successful,Education
+T0000376,A00078,2024-12-06,Payment,7151.44,Branch,Successful,Groceries
+T0000377,A00177,2026-07-14,Transfer,3560.28,Mobile App,Successful,Utilities
+T0000378,A00047,2024-10-04,Payment,23446.37,Branch,Successful,Restaurants
+T0000379,A00007,2025-02-17,Deposit,14759.94,Branch,Successful,Healthcare
+T0000380,A00178,2024-12-01,Payment,17788.19,POS,Successful,Utilities
+T0000381,A00030,2024-06-23,Payment,15853.64,Internet Banking,Successful,Telecom
+T0000382,A00157,2026-02-18,Reversal,9470.07,Mobile App,Successful,Healthcare
+T0000383,A00145,2024-11-28,Fee,21567.5,USSD,Successful,Groceries
+T0000384,A00108,2026-07-02,Withdrawal,18255.39,ATM,Successful,Utilities
+T0000385,A00034,2025-06-02,Reversal,93.3,Mobile App,Successful,Restaurants
+T0000386,A00140,2026-10-07,Payment,15201.56,USSD,Successful,Restaurants
+T0000387,A00117,2024-01-14,Withdrawal,1989.73,USSD,Failed,Travel
+T0000388,A00159,2025-01-13,Transfer,65572.82,USSD,Successful,Healthcare
+T0000389,A00010,2025-09-03,Deposit,815.64,ATM,Pending,Groceries
+T0000390,A00028,2025-08-05,Withdrawal,4460.32,Internet Banking,Successful,
+T0000391,A00147,2026-07-21,Payment,4439.59,POS,Successful,Groceries
+T0000392,A00024,2026-02-15,Payment,8073.93,Mobile App,Successful,Telecom
+T0000393,A00017,2025-07-16,Withdrawal,3367.97,ATM,Successful,Telecom
+T0000394,A00054,2024-08-11,Payment,15303.28,Internet Banking,Successful,Telecom
+T0000395,A00023,2025-08-11,Transfer,17217.91,Branch,Successful,Healthcare
+T0000396,A00067,2025-12-25,Transfer,24875.63,USSD,Successful,Restaurants
+T0000397,A00134,2025-01-03,Payment,12446.04,Internet Banking,Successful,Travel
+T0000398,A00050,2024-08-29,Deposit,604.55,POS,Failed,
+T0000399,A00107,2025-03-10,Withdrawal,8348.14,Mobile App,Successful,Travel
+T0000400,A00066,2025-10-25,Payment,7697.77,Mobile App,Successful,Healthcare
+T0000401,A00088,2024-02-29,Withdrawal,14225.19,USSD,Successful,Healthcare
+T0000402,A00173,2024-03-13,Transfer,11865.14,POS,Successful,Fuel
+T0000403,A00161,2025-11-17,Transfer,21631.28,Branch,Successful,Education
+T0000404,A00191,2025-10-08,Deposit,13029.23,Internet Banking,Successful,Retail
+T0000405,A00148,2025-12-25,Payment,19989.39,Mobile App,Reversed,Travel
+T0000406,A00216,2024-12-05,Deposit,24590.55,Internet Banking,Successful,Fuel
+T0000407,A00153,2025-09-23,Deposit,19559.69,POS,Failed,Groceries
+T0000408,A00070,2025-05-01,Withdrawal,12428.88,ATM,Successful,Travel
+T0000409,A00056,2026-02-05,Transfer,4379.44,Mobile App,Successful,Utilities
+T0000410,A00114,2026-10-21,TRANSFER,19976.64,USSD,Successful,Restaurants
+T0000411,A00188,2025-11-01,Fee,7762.42,USSD,Successful,Utilities
+T0000412,A00211,2024-09-28,Reversal,-12906.08,USSD,Successful,Restaurants
+T0000413,A00100,2024-01-09,Payment,13061.01,ATM,Pending,
+T0000414,A00023,2024-07-30,Withdrawal,22230.2,Internet Banking,Successful,Travel
+T0000415,A00006,2025-03-05,Transfer,7807.01,ATM,Successful,Travel
+T0000416,A00071,2024-08-28,Transfer,19320.81,ATM,Successful,Travel
+T0000417,A00030,2024-07-28,Deposit,15575.51,USSD,Successful,Telecom
+T0000418,A00082,2025-08-03,Withdrawal,23582.23,Internet Banking,Successful,Utilities
+T0000419,A00080,2026-06-27,Transfer,8471.78,Mobile App,Successful,Restaurants
+T0000420,A00173,2024-06-25,Deposit,9593.07,Branch,Successful,
+T0000421,A00152,2026-07-02,Transfer,17254.67,Internet Banking,Successful,Healthcare
+T0000422,A00210,2024-06-09,Deposit,18961.27,Branch,Successful,Utilities
+T0000423,A00209,2024-07-18,Payment,17466.49,Branch,Successful,Restaurants
+T0000424,A00121,2025-06-12,Deposit,5598.74,ATM,Successful,Healthcare
+T0000425,A00202,2026-09-25,Fee,8122.4,Mobile App,Successful,Utilities
+T0000426,A00090,2025-08-01,Transfer,21144.93,ATM,Successful,Fuel
+T0000427,A00131,2024-08-07,Deposit,20439.73,ATM,Successful,Utilities
+T0000428,A00203,2026-04-26,Withdrawal,11527.07,USSD,Successful,Telecom
+T0000429,A00041,2025-11-28,Reversal,9598.49,USSD,Successful,
+T0000430,A00111,2025-12-01,Payment,10886.67,Internet Banking,Successful,Fuel
+T0000431,A00170,2026-09-23,Payment,18485.48,Mobile App,Successful,Restaurants
+T0000432,A00084,2024-12-26,Transfer,20551.47,ATM,Pending,Utilities
+T0000433,A00154,2026-02-15,Deposit,20352.6,ATM,Successful,Groceries
+T0000434,A00024,2024-01-01,Deposit,3477.22,USSD,Successful,Restaurants
+T0000435,A00137,2026-07-04,Withdrawal,15391.23,USSD,Successful,Healthcare
+T0000436,A00077,2025-09-15,Transfer,22830.54,Branch,Successful,Healthcare
+T0000437,A00023,2026-04-07,Transfer,15289.21,USSD,Failed,Groceries
+T0000438,A00095,2024-01-02,Fee,24197.65,POS,Successful,Healthcare
+T0000439,A00029,2025-04-26,Fee,21642.66,Branch,Successful,Education
+T0000440,A00161,2026-02-20,Withdrawal,9572.83,Branch,Successful,Fuel
+T0000441,A00122,2026-01-07,Deposit,13887.76,Branch,Successful,Fuel
+T0000442,A00035,2024-10-21,Deposit,16211.49,POS,Failed,Education
+T0000443,A00035,2026-05-01,Deposit,16057.86,Branch,Failed,
+T0000444,A00109,2026-05-18,Transfer,11362.59,Internet Banking,Successful,Education
+T0000445,A00091,2024-01-16,Deposit,10622.17,Internet Banking,Successful,Retail
+T0000446,A00183,2026-01-21,Transfer,10273.89,Mobile App,Reversed,
+T0000447,A00124,2026-09-13,Payment,2833.54,POS,Successful,Telecom
+T0000448,A00220,2026-08-10,Reversal,-19472.85,Internet Banking,Successful,
+T0000449,A00023,2024-06-08,Withdrawal,15768.42,POS,Successful,
+T0000450,A00080,2024-01-23,Transfer,22590.11,Branch,Successful,Restaurants
+T0000451,A00147,2025-08-26,PAYMENT,10528.3,ATM,Successful,
+T0000452,A00192,2025-06-17,Withdrawal,19626.61,Mobile App,Successful,
+T0000453,A00044,2025-08-20,Transfer,16409.72,POS,Successful,Travel
+T0000454,A00125,2025-07-23,Deposit,12642.37,ATM,Successful,Travel
+T0000455,A00071,2024-08-16,Fee,360.0,Internet Banking,Successful,
+T0000456,A00190,2024-12-25,Deposit,11169.1,ATM,Successful,Retail
+T0000457,A00125,2024-03-08,Deposit,13187.08,ATM,Reversed,Fuel
+T0000458,A00153,2026-10-12,Reversal,3857.99,Branch,Successful,Retail
+T0000459,A00170,2025-03-07,Transfer,15941.18,Internet Banking,Successful,Healthcare
+T0000460,A00014,2024-08-25,Payment,18888.32,Mobile App,Successful,Education
+T0000461,A00122,2025-04-23,Withdrawal,18655.03,Branch,Successful,Education
+T0000462,A00122,2026-06-09,Withdrawal,13263.4,Mobile App,Successful,Restaurants
+T0000463,A00098,2024-03-25,Payment,24044.26,Mobile App,Pending,Healthcare
+T0000464,A00217,2025-07-12,Withdrawal,22951.46,ATM,Successful,Utilities
+T0000465,A00066,2025-05-10,Payment,9781.89,POS,Successful,Retail
+T0000466,A00134,2025-01-03,Withdrawal,17258.51,ATM,Successful,Groceries
+T0000467,A00213,2024-07-31,Deposit,10284.16,POS,Successful,Retail
+T0000468,A00186,2024-02-18,Withdrawal,4831.02,Internet Banking,Successful,
+T0000469,A00169,2024-09-06,Fee,5424.53,POS,Pending,Utilities
+T0000470,A00220,2025-01-13,Transfer,9402.08,Mobile App,Successful,Travel
+T0000471,A00076,2026-07-17,Transfer,23404.87,ATM,Successful,Healthcare
+T0000472,A00066,2024-05-07,Deposit,1854.56,Branch,Successful,Groceries
+T0000473,A00067,2026-06-21,Reversal,6620.3,Mobile App,Successful,Retail
+T0000474,A00157,2024-08-10,Withdrawal,16138.85,USSD,Successful,Education
+T0000475,A00056,2026-06-23,Transfer,2660.71,POS,Successful,Groceries
+T0000476,A00019,2026-07-02,Deposit,18189.99,Mobile App,Failed,Fuel
+T0000477,A00168,2026-03-10,Payment,23322.68,ATM,Successful,Healthcare
+T0000478,A00101,2026-10-01,Transfer,12887.0,Branch,Successful,Utilities
+T0000479,A00139,2026-09-14,Deposit,9613.67,Mobile App,Successful,Healthcare
+T0000480,A00086,2024-07-04,Payment,10018.37,ATM,Successful,Healthcare
+T0000481,A00021,2025-08-16,Fee,19012.52,POS,Successful,Telecom
+T0000482,A00011,2025-09-04,Reversal,16520.05,POS,Successful,Utilities
+T0000483,A00162,2026-06-15,Payment,12165.16,POS,Successful,Groceries
+T0000484,A00050,2025-05-03,Deposit,24909.61,Branch,Successful,Telecom
+T0000485,A00165,2026-07-09,Withdrawal,112568.77,Mobile App,Successful,Groceries
+T0000486,A00087,2024-08-30,Payment,1075.15,USSD,Successful,Telecom
+T0000487,A00118,2024-11-01,Reversal,21755.65,POS,Successful,Utilities
+T0000488,A00010,2024-02-09,Payment,12224.92,Branch,Failed,
+T0000489,A00012,2024-01-30,Withdrawal,16221.42,USSD,Successful,Travel
+T0000490,A00211,2024-12-15,Payment,11407.33,Internet Banking,Successful,Utilities
+T0000491,A00030,2025-03-27,Transfer,19980.38,Mobile App,Successful,Education
+T0000492,A00087,2026-04-03,PAYMENT,24554.91,ATM,Successful,
+T0000493,A00140,2025-03-12,Deposit,20911.5,Mobile App,Successful,Healthcare
+T0000494,A00017,2026-04-30,Deposit,3535.21,USSD,Successful,Telecom
+T0000495,A00043,2024-03-24,Withdrawal,23142.26,USSD,Successful,
+T0000496,A00097,2026-09-24,Payment,395.68,Mobile App,Successful,Fuel
+T0000497,A00023,2025-08-04,Payment,14845.29,Branch,Successful,Restaurants
+T0000498,A00178,2025-07-08,Deposit,3581.48,Internet Banking,Successful,Retail
+T0000499,A00045,2025-01-03,Transfer,945.34,POS,Successful,Utilities
+T0000500,A00161,2026-05-07,Payment,7533.49,Mobile App,Successful,Retail
+T0000501,A00031,2026-01-11,Reversal,24419.9,Internet Banking,Successful,Restaurants
+T0000502,A00198,2024-04-18,Transfer,5206.68,USSD,Successful,Fuel
+T0000503,A00176,2026-10-15,Fee,22787.55,USSD,Successful,Groceries
+T0000504,A00014,2026-06-09,Payment,7130.19,ATM,Successful,Restaurants
+T0000505,A00012,2024-12-26,Deposit,1316.15,USSD,Successful,Restaurants
+T0000506,A00132,2026-06-29,Deposit,22377.5,Internet Banking,Successful,Education
+T0000507,A00051,2025-04-16,Payment,22459.83,Mobile App,Successful,Utilities
+T0000508,A00061,2026-02-08,Payment,21747.81,USSD,Successful,
+T0000509,A00125,2025-03-18,Deposit,10899.45,Internet Banking,Successful,Education
+T0000510,A00096,2026-01-04,Deposit,17996.93,ATM,Successful,Fuel
+T0000511,A00009,2024-10-06,Payment,1495.99,Mobile App,Failed,Restaurants
+T0000512,A00108,2025-08-27,Deposit,8592.68,Internet Banking,Successful,
+T0000513,A00044,2025-04-15,Transfer,13821.13,Mobile App,Successful,Telecom
+T0000514,A00126,2026-08-27,Fee,5414.98,Branch,Successful,Education
+T0000515,A00189,2026-06-08,Fee,6199.55,Internet Banking,Successful,
+T0000516,A00039,2026-05-05,Fee,22456.8,Mobile App,Successful,Restaurants
+T0000517,A00188,2026-03-18,Payment,845.35,Branch,Successful,Utilities
+T0000518,A00116,2024-01-26,Transfer,2081.87,POS,Successful,Retail
+T0000519,A00034,2024-07-04,Withdrawal,5980.36,Mobile App,Successful,Travel
+T0000520,A00042,2024-02-19,Payment,21448.76,Branch,Successful,Fuel
+T0000521,A00181,2026-01-28,Withdrawal,19747.52,POS,Successful,Groceries
+T0000522,A00161,2025-11-12,Deposit,22336.39,Internet Banking,Successful,Education
+T0000523,A00193,2025-02-28,Withdrawal,23652.66,POS,Successful,Healthcare
+T0000524,A00189,2026-01-15,Reversal,-12870.84,Mobile App,Successful,Healthcare
+T0000525,A00120,2024-12-24,Transfer,9142.45,POS,Successful,Utilities
+T0000526,A00144,2025-11-16,Payment,5121.79,USSD,Successful,Restaurants
+T0000527,A00189,2025-03-05,Reversal,14505.08,POS,Successful,Healthcare
+T0000528,A00091,2026-05-16,Fee,12591.63,ATM,Successful,Healthcare
+T0000529,A00089,2024-09-08,Transfer,12538.75,Branch,Successful,Telecom
+T0000530,A00075,2024-05-14,Transfer,9206.81,USSD,Failed,Restaurants
+T0000531,A00023,2025-08-13,Deposit,22449.16,Mobile App,Successful,Travel
+T0000532,A00029,2025-02-22,Payment,12410.74,Internet Banking,Pending,Groceries
+T0000533,A00076,2024-09-27,WITHDRAWAL,17061.67,Branch,Successful,Restaurants
+T0000534,A00189,2024-05-08,Payment,7291.46,Mobile App,Failed,Retail
+T0000535,A00214,2026-04-23,Reversal,16118.58,Internet Banking,Successful,Healthcare
+T0000536,A00125,2026-06-30,Transfer,17423.11,Branch,Successful,Fuel
+T0000537,A00203,2025-04-09,Withdrawal,19732.75,Branch,Successful,Travel
+T0000538,A00198,2025-08-05,Fee,3712.72,Branch,Pending,
+T0000539,A00042,2024-12-25,Payment,7134.74,POS,Successful,Fuel
+T0000540,A00042,2025-10-10,Deposit,1033.58,Internet Banking,Successful,Travel
+T0000541,A00095,2024-03-12,Deposit,14064.37,POS,Successful,Healthcare
+T0000542,A00038,2024-11-28,Withdrawal,13498.97,Internet Banking,Successful,Groceries
+T0000543,A00104,2026-07-27,Reversal,19214.11,ATM,Successful,Telecom
+T0000544,A00130,2026-08-28,Withdrawal,17637.76,ATM,Reversed,
+T0000545,A00171,2026-06-24,Deposit,14132.96,ATM,Successful,Restaurants
+T0000546,A00011,2025-09-22,Deposit,13776.24,Mobile App,Successful,Retail
+T0000547,A00115,2025-02-03,Withdrawal,8162.53,Internet Banking,Successful,Travel
+T0000548,A00051,2026-07-01,Deposit,13462.62,POS,Successful,Utilities
+T0000549,A00132,2024-04-24,Withdrawal,12264.18,POS,Successful,Fuel
+T0000550,A00184,2026-02-02,Fee,9243.9,Mobile App,Successful,Healthcare
+T0000551,A00079,2024-06-28,Reversal,21858.17,USSD,Successful,Restaurants
+T0000552,A00190,2025-08-14,Reversal,-20093.12,USSD,Successful,Education
+T0000553,A00187,2024-06-25,Fee,3493.49,USSD,Successful,Restaurants
+T0000554,A00135,2026-02-08,Reversal,1657.56,Mobile App,Successful,Travel
+T0000555,A00107,2024-10-07,Deposit,11555.69,USSD,Successful,Education
+T0000556,A00075,2025-09-10,Transfer,1060.61,Internet Banking,Successful,Telecom
+T0000557,A00190,2024-01-06,Transfer,675.87,USSD,Successful,Restaurants
+T0000558,A00032,2026-05-04,Payment,22317.7,USSD,Successful,Retail
+T0000559,A00008,2024-05-16,Deposit,6934.04,Internet Banking,Successful,
+T0000560,A00124,2026-09-01,Transfer,21709.31,POS,Successful,Healthcare
+T0000561,A00132,2025-06-15,Payment,443.54,USSD,Successful,Fuel
+T0000562,A00082,2026-01-01,Transfer,17333.61,USSD,Successful,Healthcare
+T0000563,A00108,2024-04-09,Transfer,23879.13,ATM,Successful,Utilities
+T0000564,A00132,2024-07-12,Deposit,15702.61,Internet Banking,Successful,Telecom
+T0000565,A00083,2025-09-08,Fee,20671.42,ATM,Successful,Healthcare
+T0000566,A00025,2024-10-21,Transfer,8793.98,Mobile App,Successful,Travel
+T0000567,A00096,2024-11-29,Payment,10302.8,Mobile App,Successful,Telecom
+T0000568,A00057,2024-08-21,Payment,19878.69,Branch,Successful,Utilities
+T0000569,A00030,2026-09-09,Payment,23085.63,ATM,Successful,Healthcare
+T0000570,A00036,2025-12-01,Payment,22243.71,USSD,Successful,Groceries
+T0000571,A00191,2024-10-18,Payment,5562.83,POS,Successful,Fuel
+T0000572,A00054,2024-08-16,Deposit,1969.73,Mobile App,Successful,Restaurants
+T0000573,A00194,2024-03-08,Withdrawal,4912.79,POS,Successful,Groceries
+T0000574,A00121,2024-05-15,DEPOSIT,6329.05,ATM,Successful,Utilities
+T0000575,A00201,2025-02-13,Deposit,15046.79,USSD,Successful,Groceries
+T0000576,A00024,2025-07-22,Deposit,18656.22,Internet Banking,Successful,Fuel
+T0000577,A00219,2025-05-10,Transfer,18215.21,Internet Banking,Successful,Utilities
+T0000578,A00210,2025-03-20,Transfer,354.54,POS,Successful,Travel
+T0000579,A00044,2024-07-21,Fee,13430.48,USSD,Pending,Restaurants
+T0000580,A00094,2024-08-07,Payment,4632.22,USSD,Successful,Education
+T0000581,A00109,2024-08-19,Deposit,5692.72,ATM,Successful,Utilities
+T0000582,A00134,2024-03-24,Deposit,102854.82,Mobile App,Successful,Utilities
+T0000583,A00099,2025-09-30,Withdrawal,15011.74,POS,Reversed,Restaurants
+T0000584,A00058,2026-05-26,Transfer,7268.28,USSD,Failed,Restaurants
+T0000585,A00174,2026-10-03,Withdrawal,324.58,POS,Successful,Restaurants
+T0000586,A00134,2024-10-20,Payment,2129.72,Branch,Successful,
+T0000587,A00027,2024-12-11,Payment,22311.23,Mobile App,Successful,Retail
+T0000588,A00087,2026-04-07,Deposit,21101.52,Mobile App,Successful,Education
+T0000589,A00186,2025-07-13,Transfer,19121.6,POS,Pending,Healthcare
+T0000590,A00122,2026-09-19,Payment,23753.72,Internet Banking,Successful,Restaurants
+T0000591,A00028,2025-04-17,Deposit,12236.09,POS,Pending,Groceries
+T0000592,A00026,2026-10-17,Payment,20758.66,POS,Successful,Fuel
+T0000593,A00098,2025-09-12,Transfer,8177.26,Internet Banking,Successful,Utilities
+T0000594,A00170,2026-08-12,Payment,19190.46,USSD,Successful,Restaurants
+T0000595,A00126,2024-02-06,Transfer,13563.24,Mobile App,Reversed,Utilities
+T0000596,A00099,2026-06-25,Transfer,21322.59,Branch,Successful,Fuel
+T0000597,A00143,2024-12-02,Payment,19485.66,Branch,Successful,Travel
+T0000598,A00184,2026-10-01,Withdrawal,19101.46,POS,Successful,Telecom
+T0000599,A00147,2024-11-16,Transfer,14058.57,Internet Banking,Successful,Travel
+T0000600,A00127,2025-12-23,Transfer,9448.05,ATM,Successful,Groceries
+T0000601,A00152,2025-12-15,Deposit,20924.17,POS,Successful,Healthcare
+T0000602,A00098,2026-01-01,Deposit,8631.85,Branch,Successful,Retail
+T0000603,A00064,2024-06-22,Deposit,7805.93,POS,Successful,Travel
+T0000604,A00030,2025-10-29,Withdrawal,497.7,Mobile App,Successful,Education
+T0000605,A00146,2024-02-11,Transfer,10532.21,POS,Successful,Groceries
+T0000606,A00082,2024-07-19,Withdrawal,9760.57,Branch,Successful,Retail
+T0000607,A00087,2025-11-26,Transfer,20287.37,USSD,Successful,Healthcare
+T0000608,A00112,2024-06-03,Deposit,15887.93,Internet Banking,Successful,Travel
+T0000609,A00013,2025-04-07,Withdrawal,14340.15,Internet Banking,Successful,Utilities
+T0000610,A00184,2025-11-20,Fee,2372.87,ATM,Successful,Telecom
+T0000611,A00122,2024-06-06,Withdrawal,8686.18,POS,Successful,Telecom
+T0000612,A00206,2025-10-03,Withdrawal,16588.1,USSD,Successful,Travel
+T0000613,A00160,2025-01-04,Transfer,16790.65,Mobile App,Successful,Telecom
+T0000614,A00048,2026-08-15,Transfer,5327.76,ATM,Pending,Telecom
+T0000615,A00208,2026-06-07,TRANSFER,19229.13,Internet Banking,Successful,Groceries
+T0000616,A00134,2025-05-07,Deposit,11564.85,USSD,Successful,Travel
+T0000617,A00217,2024-05-11,Withdrawal,7969.74,POS,Successful,Education
+T0000618,A00069,2025-06-09,Payment,16152.84,POS,Successful,Education
+T0000619,A00062,2025-05-17,Deposit,4801.94,ATM,Successful,Telecom
+T0000620,A00112,2025-02-17,Withdrawal,22641.86,USSD,Successful,Groceries
+T0000621,A00067,2024-12-26,Payment,6947.91,POS,Failed,Restaurants
+T0000622,A00201,2024-06-20,Deposit,21490.3,ATM,Successful,Utilities
+T0000623,A00105,2024-07-03,Fee,16793.44,Branch,Pending,Fuel
+T0000624,A00061,2024-09-04,Deposit,18363.34,Internet Banking,Successful,
+T0000625,A00199,2024-07-03,Reversal,6298.94,USSD,Successful,Healthcare
+T0000626,A00085,2025-04-28,Payment,18432.22,Branch,Successful,Utilities
+T0000627,A00045,2026-04-16,Deposit,6867.31,ATM,Failed,Groceries
+T0000628,A00126,2024-08-19,Transfer,17491.95,ATM,Successful,Restaurants
+T0000629,A00175,2024-10-23,Withdrawal,6946.96,ATM,Successful,Healthcare
+T0000630,A00211,2024-03-12,Withdrawal,16136.71,POS,Successful,Groceries
+T0000631,A00177,2025-06-02,Fee,16791.61,Internet Banking,Successful,Healthcare
+T0000632,A00208,2025-04-29,Payment,13375.09,Branch,Successful,Education
+T0000633,A00066,2025-04-27,Withdrawal,23408.38,ATM,Successful,Fuel
+T0000634,A00113,2026-04-12,Transfer,21987.28,Mobile App,Successful,Utilities
+T0000635,A00211,2026-04-25,Payment,12294.84,ATM,Successful,Utilities
+T0000636,A00212,2024-05-15,Deposit,6527.95,ATM,Successful,Telecom
+T0000637,A00189,2024-04-16,Withdrawal,17381.78,POS,Successful,Restaurants
+T0000638,A00203,2025-02-13,Payment,81.88,POS,Successful,
+T0000639,A00022,2024-09-23,Deposit,6243.84,Internet Banking,Successful,Healthcare
+T0000640,A00116,2025-06-17,Transfer,18380.63,USSD,Successful,Healthcare
+T0000641,A00205,2026-01-22,Withdrawal,2114.55,USSD,Successful,Education
+T0000642,A00214,2024-02-17,Fee,5616.06,Internet Banking,Successful,Retail
+T0000643,A00023,2024-12-11,Reversal,4960.66,Mobile App,Successful,Education
+T0000644,A00154,2026-01-23,Withdrawal,2231.09,USSD,Pending,Utilities
+T0000645,A00004,2026-07-18,Payment,10881.79,POS,Successful,Retail
+T0000646,A00183,2025-06-29,Deposit,23651.58,ATM,Successful,Education
+T0000647,A00034,2025-03-17,Withdrawal,5169.12,ATM,Successful,Retail
+T0000648,A00108,2024-02-28,Deposit,19812.63,ATM,Reversed,Retail
+T0000649,A00159,2026-07-27,Transfer,6211.71,Mobile App,Successful,Fuel
+T0000650,A00083,2025-03-10,Reversal,9941.88,POS,Successful,Education
+T0000651,A00189,2024-04-30,Transfer,1831.03,Mobile App,Successful,Retail
+T0000652,A00121,2024-04-03,Fee,24918.5,Mobile App,Successful,
+T0000653,A00098,2026-01-29,Withdrawal,9870.45,USSD,Reversed,Telecom
+T0000654,A00011,2026-10-28,Transfer,6510.99,Branch,Pending,Restaurants
+T0000655,A00034,2026-06-05,Deposit,17757.84,USSD,Successful,Healthcare
+T0000656,A00012,2025-07-29,REVERSAL,-12482.77,POS,Successful,Education
+T0000657,A00073,2025-06-24,Fee,6584.09,Internet Banking,Successful,Fuel
+T0000658,A00081,2024-11-05,Payment,12284.41,Internet Banking,Failed,Restaurants
+T0000659,A00014,2025-01-10,Deposit,1368.91,Mobile App,Successful,Fuel
+T0000660,A00181,2026-10-10,Transfer,2905.02,Mobile App,Successful,Telecom
+T0000661,A00125,2024-10-30,Transfer,2816.71,Mobile App,Successful,Retail
+T0000662,A00073,2025-07-12,Deposit,4211.53,Internet Banking,Failed,
+T0000663,A00055,2025-01-04,Transfer,24290.83,Branch,Pending,Retail
+T0000664,A00197,2025-11-04,Transfer,2362.16,Mobile App,Successful,Utilities
+T0000665,A00101,2024-08-05,Withdrawal,23229.07,ATM,Successful,Utilities
+T0000666,A00118,2026-07-18,Payment,16490.19,POS,Pending,
+T0000667,A00169,2026-07-16,Deposit,24244.41,ATM,Pending,
+T0000668,A00034,2025-08-02,Deposit,1221.81,ATM,Successful,Utilities
+T0000669,A00141,2026-03-27,Reversal,9537.87,ATM,Successful,Education
+T0000670,A00023,2026-03-06,Deposit,5209.53,Branch,Successful,Fuel
+T0000671,A00031,2025-09-27,Withdrawal,20028.51,POS,Successful,Healthcare
+T0000672,A00171,2025-02-13,Deposit,9189.58,Branch,Successful,Education
+T0000673,A00122,2024-07-03,Withdrawal,15010.52,Branch,Successful,
+T0000674,A00048,2024-03-23,Withdrawal,10653.3,Internet Banking,Successful,Restaurants
+T0000675,A00174,2024-11-13,Deposit,17157.48,Branch,Successful,Telecom
+T0000676,A00022,2026-09-05,Withdrawal,10936.7,ATM,Successful,Fuel
+T0000677,A00176,2026-05-25,Fee,21039.24,ATM,Successful,Telecom
+T0000678,A00020,2026-05-20,Fee,12837.8,Branch,Successful,
+T0000679,A00209,2026-10-28,Withdrawal,56132.72,Mobile App,Successful,Restaurants
+T0000680,A00046,2024-04-02,Payment,21073.53,Mobile App,Successful,Travel
+T0000681,A00081,2026-07-10,Transfer,11377.68,Internet Banking,Successful,Healthcare
+T0000682,A00208,2025-06-15,Deposit,4631.26,POS,Successful,Telecom
+T0000683,A00005,2024-12-17,Deposit,2921.37,POS,Successful,Education
+T0000684,A00169,2026-09-23,Reversal,-15049.18,ATM,Successful,
+T0000685,A00093,2026-03-19,Payment,24078.72,ATM,Successful,Fuel
+T0000686,A00004,2025-01-20,Deposit,20400.13,Mobile App,Successful,Fuel
+T0000687,A00167,2025-01-25,Withdrawal,21053.03,Mobile App,Successful,Restaurants
+T0000688,A00038,2024-12-06,Transfer,550.31,USSD,Successful,Restaurants
+T0000689,A00125,2025-05-11,Transfer,21495.61,USSD,Successful,Education
+T0000690,A00014,2026-06-03,Withdrawal,2571.07,Branch,Failed,
+T0000691,A00153,2024-03-16,Payment,24975.66,Branch,Successful,Telecom
+T0000692,A00152,2026-09-26,Payment,23382.35,USSD,Successful,Telecom
+T0000693,A00005,2024-05-10,Withdrawal,7899.67,ATM,Failed,Education
+T0000694,A00122,2025-12-11,Deposit,15569.3,Branch,Successful,Groceries
+T0000695,A00042,2025-12-05,Withdrawal,4809.07,Branch,Successful,Retail
+T0000696,A00151,2026-08-17,Fee,8482.13,USSD,Failed,Education
+T0000697,A00107,2026-01-07,PAYMENT,16829.32,Branch,Successful,Fuel
+T0000698,A00160,2024-06-25,Deposit,17268.99,POS,Successful,Fuel
+T0000699,A00052,2026-05-01,Deposit,12307.18,Branch,Successful,Retail
+T0000700,A00143,2025-06-18,Deposit,458.17,ATM,Successful,Fuel
+T0000701,A00212,2024-05-10,Fee,12589.46,ATM,Successful,
+T0000702,A00059,2025-06-12,Deposit,5606.27,ATM,Successful,Groceries
+T0000703,A00198,2024-11-05,Fee,6690.94,POS,Failed,
+T0000704,A00172,2026-06-15,Deposit,1265.3,Branch,Reversed,Utilities
+T0000705,A00028,2024-07-27,Payment,15243.35,Internet Banking,Successful,Utilities
+T0000706,A00043,2026-01-10,Transfer,21772.38,USSD,Successful,Restaurants
+T0000707,A00196,2024-07-22,Transfer,18315.13,USSD,Successful,Healthcare
+T0000708,A00210,2026-06-18,Deposit,21215.63,Branch,Successful,Groceries
+T0000709,A00063,2025-08-10,Payment,11844.21,Internet Banking,Successful,Travel
+T0000710,A00096,2025-05-17,Payment,10378.14,USSD,Successful,Telecom
+T0000711,A00108,2026-05-28,Payment,3454.17,Branch,Pending,Restaurants
+T0000712,A00219,2024-03-01,Transfer,17056.55,Branch,Successful,Groceries
+T0000713,A00184,2024-06-22,Payment,23591.35,ATM,Successful,Fuel
+T0000714,A00112,2024-11-05,Deposit,18981.01,Internet Banking,Successful,Telecom
+T0000715,A00076,2025-09-15,Withdrawal,22145.14,POS,Successful,Healthcare
+T0000716,A00003,2024-10-27,Payment,22505.71,POS,Successful,Retail
+T0000717,A00140,2026-06-24,Transfer,15456.6,POS,Successful,Education
+T0000718,A00199,2024-03-16,Deposit,7541.78,Internet Banking,Successful,Fuel
+T0000719,A00134,2024-07-09,Reversal,7101.78,Internet Banking,Successful,Telecom
+T0000720,A00088,2024-02-27,Payment,4004.88,Internet Banking,Successful,Retail
+T0000721,A00214,2026-10-31,Payment,18164.1,Mobile App,Successful,Healthcare
+T0000722,A00067,2024-04-07,Transfer,8865.06,POS,Pending,Restaurants
+T0000723,A00077,2025-11-25,Transfer,135.31,USSD,Successful,
+T0000724,A00145,2025-04-23,Payment,23438.8,ATM,Successful,
+T0000725,A00173,2025-05-22,Deposit,9444.75,Mobile App,Successful,
+T0000726,A00050,2024-07-19,Payment,9034.88,USSD,Successful,Education
+T0000727,A00021,2024-09-23,Deposit,10625.04,Branch,Successful,Utilities
+T0000728,A00095,2026-03-19,Payment,10071.83,ATM,Successful,Education
+T0000729,A00113,2026-05-03,Payment,23695.76,USSD,Successful,Fuel
+T0000730,A00125,2024-08-29,Payment,3238.98,POS,Successful,Restaurants
+T0000731,A00009,2026-01-26,Payment,23602.02,Mobile App,Successful,Education
+T0000732,A00029,2024-03-23,Deposit,14296.26,Internet Banking,Successful,Healthcare
+T0000733,A00079,2026-09-22,Reversal,7584.99,Mobile App,Successful,Fuel
+T0000734,A00201,2025-09-16,Transfer,1221.03,ATM,Successful,Restaurants
+T0000735,A00001,2024-04-01,Deposit,8719.48,Branch,Successful,Travel
+T0000736,A00145,2026-02-11,Transfer,8448.89,Branch,Successful,
+T0000737,A00034,2026-08-01,Payment,12621.57,Branch,Successful,Fuel
+T0000738,A00187,2026-04-18,WITHDRAWAL,19996.29,Branch,Successful,Education
+T0000739,A00087,2026-06-26,Transfer,23952.2,POS,Successful,Utilities
+T0000740,A00043,2025-09-24,Payment,14302.01,Internet Banking,Successful,Telecom
+T0000741,A00022,2024-04-18,Deposit,15469.51,Internet Banking,Successful,Restaurants
+T0000742,A00129,2025-01-03,Fee,3011.48,Mobile App,Successful,Retail
+T0000743,A00063,2026-06-28,Payment,20973.74,Mobile App,Successful,
+T0000744,A00083,2024-02-17,Withdrawal,1129.37,ATM,Successful,Education
+T0000745,A00007,2025-06-10,Fee,7937.97,Mobile App,Successful,Utilities
+T0000746,A00139,2025-06-07,Deposit,3605.14,Mobile App,Successful,Education
+T0000747,A00174,2025-10-28,Deposit,15363.81,USSD,Successful,Groceries
+T0000748,A00077,2026-04-25,Withdrawal,8004.44,ATM,Successful,Utilities
+T0000749,A00014,2025-04-29,Deposit,18804.58,Branch,Successful,Telecom
+T0000750,A00099,2025-10-13,Reversal,6735.84,Branch,Successful,Utilities
+T0000751,A00124,2024-02-08,Deposit,15840.36,ATM,Successful,
+T0000752,A00173,2024-09-14,Deposit,19075.64,ATM,Successful,Restaurants
+T0000753,A00022,2024-10-18,Fee,12513.31,ATM,Successful,Fuel
+T0000754,A00201,2026-07-14,Withdrawal,23815.55,Mobile App,Successful,Restaurants
+T0000755,A00213,2024-12-08,Transfer,16328.21,Mobile App,Successful,Restaurants
+T0000756,A00070,2026-02-17,Transfer,20988.0,ATM,Failed,Retail
+T0000757,A00150,2024-11-26,Fee,7036.38,POS,Successful,Utilities
+T0000758,A00077,2024-10-13,Deposit,17462.24,POS,Successful,Travel
+T0000759,A00111,2025-10-13,Deposit,12622.98,POS,Pending,Travel
+T0000760,A00193,2025-10-20,Payment,6828.96,ATM,Successful,
+T0000761,A00085,2024-01-05,Deposit,17297.67,Internet Banking,Successful,Groceries
+T0000762,A00173,2026-09-28,Deposit,13896.99,Branch,Successful,Utilities
+T0000763,A00138,2026-06-30,Deposit,20802.94,POS,Successful,Education
+T0000764,A00212,2024-01-18,Transfer,9671.84,Mobile App,Successful,Retail
+T0000765,A00114,2025-07-29,Deposit,18579.9,POS,Pending,Healthcare
+T0000766,A00050,2025-09-12,Deposit,15338.0,POS,Successful,Restaurants
+T0000767,A00093,2025-03-04,Deposit,12323.48,Mobile App,Successful,Education
+T0000768,A00029,2026-10-08,Fee,14229.71,USSD,Successful,
+T0000769,A00173,2024-05-13,Payment,14130.68,Internet Banking,Successful,Utilities
+T0000770,A00033,2025-04-11,Withdrawal,14249.73,Internet Banking,Successful,Travel
+T0000771,A00050,2025-06-01,Fee,582.82,POS,Successful,Restaurants
+T0000772,A00001,2024-04-16,Reversal,-16025.95,ATM,Successful,Education
+T0000773,A00071,2026-10-11,Deposit,12959.79,ATM,Successful,Groceries
+T0000774,A00185,2026-05-10,Deposit,6951.94,Internet Banking,Successful,Groceries
+T0000775,A00101,2024-02-21,Deposit,2049.81,POS,Successful,Education
+T0000776,A00020,2024-05-08,Fee,74691.85,POS,Successful,Groceries
+T0000777,A00123,2025-11-15,Withdrawal,605.47,ATM,Successful,Restaurants
+T0000778,A00062,2025-11-14,Reversal,20813.78,Internet Banking,Successful,Utilities
+T0000779,A00199,2024-07-14,TRANSFER,10966.04,POS,Successful,Utilities
+T0000780,A00022,2026-02-11,Reversal,-22918.28,ATM,Failed,Utilities
+T0000781,A00201,2026-06-24,Deposit,22978.3,Mobile App,Successful,Education
+T0000782,A00017,2024-04-16,Deposit,1399.47,ATM,Failed,Education
+T0000783,A00025,2024-01-22,Transfer,10280.64,Branch,Successful,Education
+T0000784,A00159,2024-02-23,Transfer,8493.71,Branch,Successful,
+T0000785,A00050,2024-05-18,Deposit,312.15,Internet Banking,Successful,Retail
+T0000786,A00147,2025-12-28,Deposit,12724.91,Branch,Successful,
+T0000787,A00114,2024-03-31,Deposit,3446.13,Mobile App,Successful,
+T0000788,A00112,2026-01-02,Transfer,16294.37,ATM,Successful,Telecom
+T0000789,A00199,2025-12-03,Deposit,11740.75,ATM,Successful,Groceries
+T0000790,A00133,2024-04-27,Transfer,16959.12,USSD,Successful,Telecom
+T0000791,A00220,2025-02-14,Deposit,8598.68,POS,Failed,Utilities
+T0000792,A00088,2026-08-15,Deposit,11895.75,Internet Banking,Successful,
+T0000793,A00145,2026-05-07,Reversal,15404.5,ATM,Successful,Restaurants
+T0000794,A00203,2024-01-08,Fee,12400.79,POS,Successful,Retail
+T0000795,A00120,2025-11-09,Transfer,5979.28,POS,Successful,Education
+T0000796,A00048,2024-01-21,Payment,173.1,Mobile App,Successful,Telecom
+T0000797,A00030,2026-01-07,Deposit,11013.0,Mobile App,Reversed,Retail
+T0000798,A00051,2025-06-20,Withdrawal,5477.53,POS,Successful,Telecom
+T0000799,A00063,2025-06-20,Deposit,542.19,Mobile App,Successful,Fuel
+T0000800,A00098,2025-11-24,Payment,22125.86,USSD,Successful,Retail
+T0000801,A00095,2026-06-07,Payment,16524.41,POS,Successful,Fuel
+T0000802,A00034,2026-02-13,Payment,4796.07,POS,Successful,
+T0000803,A00110,2024-04-04,Reversal,6117.52,Internet Banking,Successful,Telecom
+T0000804,A00076,2024-04-19,Payment,8195.38,POS,Successful,Fuel
+T0000805,A00218,2026-09-28,Transfer,14604.14,USSD,Successful,Restaurants
+T0000806,A00203,2026-03-05,Payment,1626.5,POS,Successful,Healthcare
+T0000807,A00128,2026-02-04,Transfer,4479.07,Internet Banking,Successful,Restaurants
+T0000808,A00122,2024-03-15,Withdrawal,10026.65,USSD,Successful,Retail
+T0000809,A00116,2025-09-18,Fee,9900.52,Branch,Failed,
+T0000810,A00041,2024-06-22,Reversal,9355.81,USSD,Successful,Travel
+T0000811,A00114,2024-03-25,Transfer,5758.29,Branch,Successful,Healthcare
+T0000812,A00110,2026-01-22,Transfer,10815.48,Branch,Successful,Education
+T0000813,A00007,2024-06-04,Deposit,5848.59,ATM,Failed,Travel
+T0000814,A00216,2024-06-09,Transfer,13668.56,ATM,Pending,Utilities
+T0000815,A00031,2025-02-14,Deposit,961.84,ATM,Successful,Healthcare
+T0000816,A00065,2025-07-16,Withdrawal,20390.04,USSD,Successful,Fuel
+T0000817,A00219,2025-06-18,Payment,18496.83,Mobile App,Successful,Travel
+T0000818,A00211,2026-04-10,Withdrawal,24921.07,Internet Banking,Successful,Groceries
+T0000819,A00121,2024-11-01,Payment,24731.92,Branch,Successful,Retail
+T0000820,A00122,2026-08-17,DEPOSIT,14677.16,POS,Successful,Healthcare
+T0000821,A00203,2026-05-28,Deposit,21145.81,POS,Successful,Restaurants
+T0000822,A00116,2024-10-11,Fee,757.45,Internet Banking,Failed,Travel
+T0000823,A00189,2025-12-27,Deposit,20260.98,ATM,Successful,Education
+T0000824,A00176,2025-09-05,Payment,19072.23,ATM,Successful,
+T0000825,A00202,2025-11-07,Deposit,3482.67,Internet Banking,Successful,
+T0000826,A00156,2026-02-19,Transfer,9775.19,USSD,Pending,Utilities
+T0000827,A00137,2025-11-04,Withdrawal,11872.07,Internet Banking,Reversed,Travel
+T0000828,A00024,2024-12-29,Deposit,16873.76,Mobile App,Successful,
+T0000829,A00126,2026-03-01,Deposit,4978.97,ATM,Successful,Travel
+T0000830,A00169,2026-01-24,Transfer,11369.32,Internet Banking,Successful,Healthcare
+T0000831,A00106,2024-09-21,Withdrawal,24739.93,Internet Banking,Successful,Utilities
+T0000832,A00100,2024-09-23,Reversal,-21643.16,USSD,Successful,Restaurants
+T0000833,A00041,2025-02-19,Transfer,23479.16,Internet Banking,Successful,Restaurants
+T0000834,A00071,2026-07-01,Deposit,24777.17,Mobile App,Successful,
+T0000835,A00207,2026-10-02,Withdrawal,8225.64,Branch,Successful,Groceries
+T0000836,A00189,2026-07-23,Deposit,16159.25,ATM,Successful,Travel
+T0000837,A00101,2024-12-24,Transfer,20250.57,Branch,Successful,
+T0000838,A00188,2025-01-10,Withdrawal,9619.7,POS,Successful,Education
+T0000839,A00179,2024-11-19,Reversal,5996.18,ATM,Failed,Telecom
+T0000840,A00075,2025-03-20,Payment,1673.26,Branch,Successful,Telecom
+T0000841,A00032,2024-08-03,Reversal,1917.96,Internet Banking,Successful,Healthcare
+T0000842,A00105,2024-04-01,Transfer,6322.9,Branch,Successful,Restaurants
+T0000843,A00098,2025-02-02,Withdrawal,9986.55,Branch,Successful,Travel
+T0000844,A00030,2026-08-08,Payment,3416.33,Branch,Successful,Utilities
+T0000845,A00141,2026-06-15,Payment,17840.97,USSD,Successful,Travel
+T0000846,A00216,2024-07-24,Deposit,20963.2,USSD,Successful,Telecom
+T0000847,A00190,2024-01-23,Withdrawal,1944.24,POS,Successful,Restaurants
+T0000848,A00092,2025-03-18,Deposit,17861.73,Branch,Successful,Telecom
+T0000849,A00165,2024-07-29,Payment,16502.71,Branch,Successful,Restaurants
+T0000850,A00014,2026-02-11,Transfer,1221.37,USSD,Pending,Healthcare
+T0000851,A00062,2024-02-27,Deposit,405.88,Mobile App,Successful,Retail
+T0000852,A00175,2024-07-16,Payment,5518.09,POS,Successful,Fuel
+T0000853,A00012,2025-10-31,Withdrawal,2696.56,ATM,Successful,Retail
+T0000854,A00160,2026-05-26,Deposit,13544.86,Mobile App,Successful,Utilities
+T0000855,A00092,2025-10-09,Withdrawal,379.79,Mobile App,Successful,Restaurants
+T0000856,A00057,2026-01-25,Deposit,20378.05,Mobile App,Successful,Retail
+T0000857,A00106,2024-07-27,Withdrawal,14973.73,POS,Successful,
+T0000858,A00044,2025-10-26,Withdrawal,2373.14,POS,Successful,Fuel
+T0000859,A00086,2025-10-13,Deposit,19044.1,POS,Successful,Healthcare
+T0000860,A00005,2026-02-22,Transfer,14628.0,Internet Banking,Successful,Retail
+T0000861,A00129,2025-04-21,TRANSFER,24709.58,Mobile App,Successful,Utilities
+T0000862,A00080,2025-05-13,Deposit,10715.3,Internet Banking,Successful,Fuel
+T0000863,A00096,2026-02-08,Transfer,5054.28,USSD,Successful,Retail
+T0000864,A00186,2025-11-04,Transfer,23647.18,USSD,Successful,Groceries
+T0000865,A00134,2025-08-13,Payment,10375.26,Mobile App,Successful,Healthcare
+T0000866,A00088,2025-05-23,Withdrawal,13485.1,POS,Successful,Retail
+T0000867,A00156,2025-01-10,Fee,13039.19,Branch,Successful,Utilities
+T0000868,A00126,2024-10-16,Deposit,4815.67,USSD,Successful,Fuel
+T0000869,A00152,2025-02-22,Transfer,19881.85,USSD,Successful,Education
+T0000870,A00186,2025-02-08,Transfer,4108.15,USSD,Successful,
+T0000871,A00064,2025-02-16,Withdrawal,14412.66,ATM,Failed,Restaurants
+T0000872,A00021,2026-02-12,Reversal,-8992.75,USSD,Successful,Education
+T0000873,A00130,2026-09-14,Transfer,61690.89,Mobile App,Successful,Education
+T0000874,A00219,2025-09-06,Deposit,22661.89,Internet Banking,Successful,Telecom
+T0000875,A00187,2025-09-18,Deposit,9514.35,Branch,Successful,Telecom
+T0000876,A00156,2026-08-19,Transfer,8334.19,USSD,Successful,Retail
+T0000877,A00002,2026-02-05,Deposit,12519.99,Branch,Successful,Education
+T0000878,A00102,2026-09-29,Reversal,9331.76,ATM,Successful,
+T0000879,A00019,2024-09-11,Withdrawal,975.48,Branch,Pending,Fuel
+T0000880,A00050,2025-12-14,Payment,23927.64,Internet Banking,Successful,Healthcare
+T0000881,A00179,2026-05-18,Deposit,9636.4,POS,Successful,Restaurants
+T0000882,A00009,2024-02-27,Reversal,9038.55,POS,Successful,Fuel
+T0000883,A00067,2024-10-28,Transfer,23606.91,ATM,Successful,
+T0000884,A00170,2024-07-08,Fee,313.37,POS,Successful,Education
+T0000885,A00102,2024-06-13,Payment,24353.77,Internet Banking,Failed,Education
+T0000886,A00043,2025-09-10,Payment,6325.52,Internet Banking,Reversed,Education
+T0000887,A00151,2024-07-01,Withdrawal,10293.17,Mobile App,Successful,Healthcare
+T0000888,A00209,2026-03-26,Deposit,18719.51,POS,Successful,Fuel
+T0000889,A00209,2026-05-05,Transfer,2426.28,Internet Banking,Successful,Travel
+T0000890,A00188,2025-01-16,Withdrawal,4414.15,POS,Successful,Restaurants
+T0000891,A00047,2025-03-11,Transfer,2760.41,USSD,Successful,Fuel
+T0000892,A00208,2026-04-17,Payment,6487.5,Branch,Successful,
+T0000893,A00028,2025-08-23,Fee,4157.32,Mobile App,Successful,Travel
+T0000894,A00017,2026-09-05,Withdrawal,14643.23,Branch,Successful,Utilities
+T0000895,A00003,2024-01-15,Deposit,18796.21,POS,Successful,Groceries
+T0000896,A00025,2026-02-08,Deposit,19795.7,Internet Banking,Successful,Travel
+T0000897,A00125,2026-05-29,Transfer,8429.06,ATM,Successful,Healthcare
+T0000898,A00081,2026-03-27,Payment,23525.07,Branch,Successful,Healthcare
+T0000899,A00085,2026-04-02,Payment,82.1,POS,Successful,Fuel
+T0000900,A00007,2025-07-26,Transfer,21725.79,POS,Successful,Retail
+T0000901,A00095,2026-08-31,Transfer,17156.19,Internet Banking,Successful,Retail
+T0000902,A00001,2025-10-21,REVERSAL,23938.89,Mobile App,Successful,Groceries
+T0000903,A00207,2025-04-23,Payment,16949.85,Internet Banking,Successful,
+T0000904,A00204,2026-09-02,Deposit,10700.77,POS,Failed,Utilities
+T0000905,A00188,2024-10-20,Withdrawal,15181.31,Internet Banking,Failed,Telecom
+T0000906,A00009,2025-09-09,Deposit,19921.53,POS,Reversed,Restaurants
+T0000907,A00044,2026-09-14,Fee,23876.51,POS,Successful,Retail
+T0000908,A00055,2024-07-02,Deposit,23605.53,Mobile App,Successful,Groceries
+T0000909,A00042,2026-02-24,Reversal,8165.89,ATM,Successful,Travel
+T0000910,A00171,2024-09-09,Transfer,22438.28,POS,Successful,Telecom
+T0000911,A00163,2025-11-12,Payment,2265.59,USSD,Pending,
+T0000912,A00017,2026-02-20,Payment,9428.37,POS,Successful,Telecom
+T0000913,A00220,2025-06-14,Withdrawal,5838.02,Mobile App,Successful,Utilities
+T0000914,A00023,2025-01-20,Withdrawal,14807.05,POS,Pending,
+T0000915,A00095,2026-02-17,Deposit,7837.74,Internet Banking,Successful,Travel
+T0000916,A00016,2026-03-05,Transfer,4750.49,Branch,Successful,Healthcare
+T0000917,A00205,2025-03-30,Payment,19915.15,Mobile App,Successful,Telecom
+T0000918,A00219,2025-08-30,Transfer,3621.8,USSD,Successful,Restaurants
+T0000919,A00038,2024-03-11,Transfer,3651.04,Internet Banking,Successful,Telecom
+T0000920,A00177,2026-09-06,Deposit,24921.23,POS,Successful,Restaurants
+T0000921,A00075,2025-11-13,Payment,9420.83,USSD,Successful,Retail
+T0000922,A00218,2024-04-17,Payment,20261.41,USSD,Failed,Education
+T0000923,A00077,2024-11-22,Reversal,16482.96,Mobile App,Successful,Healthcare
+T0000924,A00109,2026-03-12,Payment,24757.91,Branch,Successful,Travel
+T0000925,A00073,2026-03-17,Payment,4881.33,Mobile App,Successful,
+T0000926,A00207,2025-09-14,Deposit,23364.71,Branch,Successful,
+T0000927,A00036,2024-10-23,Transfer,12063.63,USSD,Successful,Retail
+T0000928,A00189,2024-07-27,Payment,9058.83,POS,Successful,Fuel
+T0000929,A00097,2024-12-10,Reversal,10680.64,Mobile App,Successful,Restaurants
+T0000930,A00046,2025-11-24,Reversal,2938.08,Internet Banking,Successful,Fuel
+T0000931,A00161,2024-08-31,Payment,6128.8,USSD,Successful,Travel
+T0000932,A00177,2026-02-07,Transfer,4316.31,POS,Reversed,Utilities
+T0000933,A00200,2026-02-21,Transfer,20455.79,ATM,Successful,Restaurants
+T0000934,A00095,2024-09-06,Deposit,2920.11,Branch,Successful,Telecom
+T0000935,A00058,2026-09-09,Deposit,14326.68,ATM,Successful,Utilities
+T0000936,A00204,2026-06-07,Transfer,9602.08,ATM,Successful,Utilities
+T0000937,A00084,2025-01-13,Deposit,22722.47,Branch,Successful,Groceries
+T0000938,A00101,2026-09-27,Transfer,13412.74,Mobile App,Successful,
+T0000939,A00138,2024-09-11,Payment,19752.74,USSD,Reversed,Utilities
+T0000940,A00047,2024-01-11,Fee,17381.92,Internet Banking,Successful,Healthcare
+T0000941,A00032,2024-11-26,Deposit,14379.15,Mobile App,Successful,Groceries
+T0000942,A00022,2026-01-14,Reversal,12656.18,Internet Banking,Successful,Groceries
+T0000943,A00064,2025-08-23,WITHDRAWAL,23655.63,POS,Successful,Fuel
+T0000944,A00148,2025-12-22,Transfer,7826.84,Internet Banking,Successful,Retail
+T0000945,A00177,2025-04-30,Deposit,20494.98,Mobile App,Successful,Travel
+T0000946,A00220,2025-03-18,Payment,23935.79,Internet Banking,Successful,Fuel
+T0000947,A00187,2025-06-06,Transfer,1863.62,ATM,Successful,Fuel
+T0000948,A00103,2026-05-21,Transfer,23618.79,POS,Successful,Retail
+T0000949,A00019,2025-01-29,Transfer,6738.65,POS,Successful,Telecom
+T0000950,A00155,2025-10-09,Deposit,20540.09,Branch,Successful,
+T0000951,A00064,2024-08-13,Deposit,3119.91,POS,Successful,Utilities
+T0000952,A00085,2025-11-14,Payment,9073.67,ATM,Successful,Retail
+T0000953,A00071,2025-03-31,Deposit,9432.01,Branch,Pending,Utilities
+T0000954,A00045,2026-09-29,Transfer,21888.42,Mobile App,Successful,
+T0000955,A00073,2024-04-08,Transfer,15188.64,USSD,Successful,Education
+T0000956,A00047,2026-04-04,Withdrawal,18533.72,Branch,Successful,Travel
+T0000957,A00003,2024-09-15,Payment,17832.0,USSD,Successful,Travel
+T0000958,A00014,2026-01-28,Fee,15981.64,POS,Successful,
+T0000959,A00108,2025-12-25,Payment,4581.7,Branch,Successful,Travel
+T0000960,A00110,2025-04-13,Transfer,17963.08,ATM,Successful,Utilities
+T0000961,A00079,2024-07-03,Withdrawal,7821.86,POS,Successful,Retail
+T0000962,A00024,2025-08-08,Deposit,1440.0,Internet Banking,Pending,Groceries
+T0000963,A00109,2024-10-06,Payment,23311.37,Branch,Successful,Telecom
+T0000964,A00179,2025-01-24,Deposit,352.44,POS,Successful,Education
+T0000965,A00180,2024-03-27,Transfer,8629.79,Internet Banking,Successful,Fuel
+T0000966,A00173,2025-04-05,Reversal,19093.94,USSD,Successful,Fuel
+T0000967,A00132,2026-10-11,Withdrawal,1277.41,Branch,Successful,Utilities
+T0000968,A00087,2024-08-29,Fee,6247.88,ATM,Successful,Travel
+T0000969,A00068,2026-03-17,Deposit,18451.95,USSD,Pending,Telecom
+T0000970,A00212,2026-09-26,Fee,116937.04,Mobile App,Successful,
+T0000971,A00118,2024-01-11,Withdrawal,8850.55,ATM,Failed,Fuel
+T0000972,A00103,2026-10-04,Withdrawal,2537.94,USSD,Successful,Telecom
+T0000973,A00040,2024-01-15,Withdrawal,22828.16,USSD,Successful,Travel
+T0000974,A00058,2026-01-16,Transfer,9360.87,Branch,Failed,Telecom
+T0000975,A00208,2026-06-18,Withdrawal,24734.28,USSD,Successful,Education
+T0000976,A00002,2025-02-10,Withdrawal,21763.5,Mobile App,Successful,Groceries
+T0000977,A00035,2024-03-05,Withdrawal,18599.38,USSD,Successful,Restaurants
+T0000978,A00171,2026-09-28,Reversal,2974.21,Internet Banking,Successful,Fuel
+T0000979,A00084,2026-03-29,Payment,19509.54,Internet Banking,Successful,Education
+T0000980,A00034,2024-02-13,Deposit,2701.45,USSD,Successful,Telecom
+T0000981,A00004,2025-12-01,Payment,5916.44,Branch,Reversed,Groceries
+T0000982,A00112,2024-06-18,Transfer,7059.17,Branch,Successful,Fuel
+T0000983,A00187,2024-08-23,Transfer,6240.42,ATM,Reversed,Retail
+T0000984,A00171,2024-07-30,PAYMENT,4964.32,POS,Successful,
+T0000985,A00047,2024-10-31,Deposit,21372.52,USSD,Successful,Education
+T0000986,A00010,2024-10-26,Withdrawal,4808.47,Branch,Successful,Retail
+T0000987,A00024,2025-09-19,Fee,9511.91,POS,Successful,Retail
+T0000988,A00057,2026-05-24,Withdrawal,11982.48,POS,Successful,Utilities
+T0000989,A00069,2026-05-06,Withdrawal,23575.25,USSD,Successful,Groceries
+T0000990,A00047,2025-10-20,Deposit,1308.01,USSD,Successful,Travel
+T0000991,A00156,2026-10-03,Deposit,4625.08,ATM,Successful,Utilities
+T0000992,A00025,2024-09-23,Payment,17075.62,ATM,Successful,Healthcare
+T0000993,A00191,2026-01-31,Payment,13223.91,USSD,Successful,Retail
+T0000994,A00150,2024-09-24,Withdrawal,22180.41,POS,Successful,Utilities
+T0000995,A00011,2025-01-25,Transfer,22804.86,USSD,Successful,Utilities
+T0000996,A00020,2025-09-09,Reversal,-15477.16,POS,Successful,Retail
+T0000997,A00137,2025-01-27,Payment,1100.06,Branch,Successful,Travel
+T0000998,A00195,2025-12-12,Fee,22670.84,ATM,Successful,Utilities
+T0000999,A00112,2026-10-28,Deposit,10478.01,Mobile App,Successful,Travel
+T0001000,A00179,2024-05-04,Reversal,-7244.96,POS,Successful,Education
+T0001001,A00127,2024-06-02,Payment,21757.04,USSD,Successful,Telecom
+T0001002,A00099,2025-07-10,Transfer,9759.22,USSD,Successful,Fuel
+T0001003,A00147,2026-07-21,Deposit,17419.56,Internet Banking,Successful,Telecom
+T0001004,A00067,2025-07-03,Withdrawal,5512.31,Internet Banking,Successful,Retail
+T0001005,A00012,2024-10-30,Transfer,7299.62,ATM,Pending,Travel
+T0001006,A00203,2025-03-06,Deposit,24500.69,Internet Banking,Successful,Healthcare
+T0001007,A00162,2024-06-19,Transfer,9230.91,POS,Failed,Travel
+T0001008,A00185,2025-08-26,Deposit,22458.9,ATM,Reversed,Groceries
+T0001009,A00211,2025-07-26,Withdrawal,18263.26,USSD,Successful,Groceries
+T0001010,A00138,2024-08-05,Payment,21700.21,POS,Successful,Education
+T0001011,A00168,2025-02-26,Withdrawal,15657.61,Branch,Successful,Travel
+T0001012,A00053,2026-03-20,Transfer,20194.29,USSD,Successful,Education
+T0001013,A00095,2026-10-12,Deposit,11977.78,USSD,Successful,Fuel
+T0001014,A00049,2025-01-04,Transfer,23584.16,POS,Successful,Travel
+T0001015,A00042,2025-01-19,Fee,20438.39,Mobile App,Successful,Education
+T0001016,A00063,2026-04-04,Transfer,16129.74,Mobile App,Successful,Fuel
+T0001017,A00187,2024-07-23,Payment,299.65,Branch,Successful,Utilities
+T0001018,A00212,2024-03-30,Deposit,20763.78,USSD,Successful,Utilities
+T0001019,A00069,2024-01-28,Deposit,15686.47,Mobile App,Pending,Utilities
+T0001020,A00139,2024-06-23,Payment,8463.06,USSD,Successful,
+T0001021,A00114,2026-09-07,Payment,7688.09,USSD,Successful,Telecom
+T0001022,A00178,2024-02-13,Withdrawal,13592.6,Mobile App,Successful,Travel
+T0001023,A00027,2024-10-17,Transfer,20912.9,Mobile App,Pending,Groceries
+T0001024,A00059,2025-08-10,Withdrawal,3688.68,USSD,Pending,Education
+T0001025,A00176,2024-08-18,FEE,20570.51,Branch,Successful,Utilities
+T0001026,A00058,2026-01-01,Deposit,23896.45,Mobile App,Successful,Utilities
+T0001027,A00093,2024-03-29,Reversal,22997.24,Internet Banking,Successful,Education
+T0001028,A00136,2026-05-20,Withdrawal,4538.23,USSD,Failed,Travel
+T0001029,A00160,2024-07-31,Payment,8712.9,ATM,Pending,Healthcare
+T0001030,A00068,2024-06-05,Payment,17784.11,Mobile App,Failed,Fuel
+T0001031,A00200,2026-03-10,Payment,8009.8,Branch,Successful,Restaurants
+T0001032,A00209,2025-07-24,Deposit,14448.18,USSD,Successful,Fuel
+T0001033,A00047,2026-10-09,Payment,8818.46,Branch,Successful,Education
+T0001034,A00155,2025-05-18,Payment,8339.96,Branch,Successful,Restaurants
+T0001035,A00138,2025-04-16,Transfer,13314.2,Branch,Successful,Education
+T0001036,A00135,2025-03-25,Transfer,17339.01,POS,Successful,Healthcare
+T0001037,A00001,2026-01-12,Deposit,21265.62,Internet Banking,Successful,Fuel
+T0001038,A00029,2024-10-12,Deposit,8736.94,ATM,Successful,Telecom
+T0001039,A00108,2024-04-24,Withdrawal,20696.41,POS,Successful,Fuel
+T0001040,A00097,2026-05-19,Payment,17404.58,ATM,Successful,Utilities
+T0001041,A00170,2024-11-19,Transfer,11923.28,Mobile App,Successful,Fuel
+T0001042,A00021,2026-05-02,Withdrawal,316.88,USSD,Successful,Restaurants
+T0001043,A00191,2025-09-05,Deposit,13188.61,Branch,Successful,Healthcare
+T0001044,A00114,2025-08-10,Payment,17382.7,Mobile App,Successful,Groceries
+T0001045,A00155,2024-01-23,Payment,12584.87,Branch,Successful,Restaurants
+T0001046,A00142,2026-10-24,Payment,6455.07,ATM,Successful,Education
+T0001047,A00041,2026-02-12,Withdrawal,2302.95,USSD,Successful,Education
+T0001048,A00159,2024-06-07,Deposit,9810.31,POS,Successful,Healthcare
+T0001049,A00168,2024-12-03,Payment,20682.21,Mobile App,Successful,Education
+T0001050,A00050,2026-01-12,Withdrawal,2614.48,Internet Banking,Successful,Healthcare
+T0001051,A00008,2024-08-06,Deposit,4073.2,Mobile App,Successful,Groceries
+T0001052,A00194,2025-02-17,Fee,4697.66,POS,Pending,Retail
+T0001053,A00069,2024-04-01,Deposit,14255.22,Internet Banking,Reversed,Restaurants
+T0001054,A00012,2025-09-24,Deposit,2334.81,Mobile App,Reversed,Travel
+T0001055,A00102,2026-03-11,Transfer,7865.24,POS,Successful,Fuel
+T0001056,A00180,2026-10-28,Payment,8286.3,Mobile App,Successful,Fuel
+T0001057,A00007,2024-03-17,Transfer,9555.88,ATM,Successful,Restaurants
+T0001058,A00021,2025-04-19,Fee,2336.81,USSD,Successful,Fuel
+T0001059,A00197,2026-10-24,Payment,24835.45,Internet Banking,Reversed,
+T0001060,A00167,2026-07-05,Transfer,19217.06,USSD,Successful,Healthcare
+T0001061,A00160,2026-03-04,Fee,10775.38,USSD,Successful,
+T0001062,A00156,2026-10-15,Deposit,3814.27,Mobile App,Successful,Fuel
+T0001063,A00197,2024-06-27,Fee,13680.67,Branch,Successful,Healthcare
+T0001064,A00044,2025-07-27,Reversal,-4041.0,Internet Banking,Successful,Utilities
+T0001065,A00019,2025-06-12,Deposit,19299.65,Branch,Reversed,Restaurants
+T0001066,A00167,2026-09-26,REVERSAL,23496.04,Mobile App,Successful,Travel
+T0001067,A00103,2026-06-21,Withdrawal,101043.86,ATM,Successful,
+T0001068,A00081,2026-07-10,Withdrawal,17056.61,ATM,Failed,Groceries
+T0001069,A00159,2025-05-16,Reversal,1431.18,POS,Successful,Groceries
+T0001070,A00040,2024-11-20,Fee,7270.06,Internet Banking,Successful,Utilities
+T0001071,A00058,2024-07-10,Withdrawal,11559.65,ATM,Successful,Telecom
+T0001072,A00210,2024-08-09,Transfer,2150.13,Branch,Successful,Retail
+T0001073,A00103,2026-09-22,Withdrawal,7935.54,USSD,Successful,Restaurants
+T0001074,A00030,2024-11-14,Withdrawal,961.87,Branch,Successful,Retail
+T0001075,A00082,2026-02-17,Transfer,24695.33,Mobile App,Pending,Healthcare
+T0001076,A00203,2024-04-20,Withdrawal,11837.87,USSD,Failed,Education
+T0001077,A00070,2024-10-17,Withdrawal,4406.76,Mobile App,Successful,Utilities
+T0001078,A00077,2026-05-09,Fee,11288.27,Internet Banking,Successful,Travel
+T0001079,A00048,2026-05-27,Payment,2315.57,ATM,Reversed,Travel
+T0001080,A00043,2026-09-13,Deposit,23548.83,Branch,Successful,Fuel
+T0001081,A00179,2026-03-07,Withdrawal,22815.38,Mobile App,Successful,
+T0001082,A00051,2024-10-23,Deposit,16700.72,ATM,Successful,Healthcare
+T0001083,A00004,2024-10-29,Deposit,11469.18,Branch,Failed,Utilities
+T0001084,A00203,2024-01-08,Reversal,-10162.63,Branch,Pending,Fuel
+T0001085,A00163,2024-07-18,Transfer,24236.59,Mobile App,Successful,Retail
+T0001086,A00108,2026-02-12,Payment,19360.74,USSD,Successful,Retail
+T0001087,A00174,2026-01-15,Transfer,364.2,Mobile App,Successful,Travel
+T0001088,A00129,2026-10-19,Payment,3123.01,POS,Reversed,Education
+T0001089,A00106,2026-05-22,Withdrawal,20705.51,Internet Banking,Reversed,Healthcare
+T0001090,A00030,2026-02-03,Reversal,11473.3,USSD,Successful,Fuel
+T0001091,A00139,2026-06-14,Withdrawal,7129.27,POS,Successful,
+T0001092,A00220,2024-07-31,Deposit,2195.07,Mobile App,Successful,
+T0001093,A00106,2024-07-23,Deposit,18749.84,POS,Successful,
+T0001094,A00207,2026-05-11,Deposit,7251.16,USSD,Successful,Restaurants
+T0001095,A00142,2026-08-19,Withdrawal,4893.03,Mobile App,Successful,Restaurants
+T0001096,A00106,2026-03-21,Fee,16123.26,Mobile App,Pending,Retail
+T0001097,A00130,2025-06-25,Withdrawal,21990.78,ATM,Successful,Education
+T0001098,A00173,2026-04-29,Withdrawal,22505.18,Mobile App,Successful,Fuel
+T0001099,A00203,2025-10-12,Withdrawal,20418.59,ATM,Successful,
+T0001100,A00111,2025-01-29,Withdrawal,24337.39,Internet Banking,Successful,Groceries
+T0001101,A00206,2026-03-10,Reversal,10730.42,POS,Successful,Healthcare
+T0001102,A00133,2024-09-15,Deposit,5778.08,Internet Banking,Successful,
+T0001103,A00201,2025-06-16,Withdrawal,19055.49,Internet Banking,Successful,Healthcare
+T0001104,A00053,2024-01-24,Deposit,645.88,POS,Successful,Fuel
+T0001105,A00008,2024-06-10,Transfer,13594.09,Internet Banking,Successful,Fuel
+T0001106,A00117,2025-01-17,Transfer,19440.86,USSD,Successful,Retail
+T0001107,A00077,2026-02-13,DEPOSIT,21012.22,ATM,Successful,Travel
+T0001108,A00022,2024-07-30,Reversal,-15687.81,Mobile App,Successful,
+T0001109,A00032,2025-01-04,Deposit,7065.16,Mobile App,Successful,Healthcare
+T0001110,A00215,2024-02-14,Deposit,2521.29,Branch,Successful,Utilities
+T0001111,A00054,2025-10-04,Payment,9384.48,POS,Failed,Fuel
+T0001112,A00047,2024-03-05,Withdrawal,22591.44,Mobile App,Reversed,Healthcare
+T0001113,A00124,2024-01-11,Reversal,15001.82,USSD,Successful,Travel
+T0001114,A00032,2024-02-17,Deposit,743.73,Internet Banking,Successful,Fuel
+T0001115,A00056,2025-03-20,Fee,2874.14,Mobile App,Successful,Retail
+T0001116,A00022,2025-07-02,Payment,23496.5,ATM,Successful,Utilities
+T0001117,A00090,2026-08-14,Payment,16299.85,POS,Successful,Education
+T0001118,A00132,2025-05-27,Reversal,23059.09,USSD,Successful,Travel
+T0001119,A00101,2025-09-30,Deposit,19829.87,USSD,Successful,Restaurants
+T0001120,A00111,2025-07-10,Fee,10596.31,ATM,Successful,
+T0001121,A00099,2026-02-04,Withdrawal,14180.72,POS,Successful,Restaurants
+T0001122,A00043,2025-06-02,Fee,23952.65,Internet Banking,Successful,
+T0001123,A00212,2025-12-22,Fee,23759.7,Branch,Successful,Fuel
+T0001124,A00208,2026-01-02,Withdrawal,19773.45,USSD,Successful,Healthcare
+T0001125,A00096,2024-01-20,Deposit,7864.75,ATM,Successful,Healthcare
+T0001126,A00055,2025-04-21,Transfer,19882.01,Internet Banking,Successful,Travel
+T0001127,A00155,2025-07-23,Deposit,5440.5,POS,Successful,Utilities
+T0001128,A00147,2026-06-10,Fee,10546.64,ATM,Successful,Retail
+T0001129,A00051,2024-04-05,Deposit,12350.89,ATM,Successful,Utilities
+T0001130,A00116,2026-02-23,Deposit,8175.23,USSD,Successful,Travel
+T0001131,A00005,2024-01-10,Payment,21403.3,Branch,Successful,Education
+T0001132,A00010,2024-03-21,Fee,22951.27,ATM,Successful,Utilities
+T0001133,A00121,2025-09-08,Deposit,20063.82,ATM,Successful,Healthcare
+T0001134,A00103,2026-10-08,Deposit,19366.46,Internet Banking,Successful,Travel
+T0001135,A00179,2024-09-05,Reversal,12335.95,ATM,Pending,Utilities
+T0001136,A00008,2024-10-11,Deposit,20637.29,Mobile App,Reversed,Education
+T0001137,A00058,2026-01-25,Deposit,4783.04,Internet Banking,Reversed,Groceries
+T0001138,A00067,2024-04-08,Fee,1081.69,ATM,Successful,Healthcare
+T0001139,A00177,2025-07-06,Transfer,20313.08,POS,Successful,Fuel
+T0001140,A00150,2024-10-30,Transfer,3161.59,Internet Banking,Failed,Education
+T0001141,A00164,2025-05-07,Transfer,3063.72,Internet Banking,Successful,Restaurants
+T0001142,A00072,2025-04-07,Withdrawal,18272.96,Mobile App,Successful,Travel
+T0001143,A00183,2025-05-11,Deposit,13965.09,POS,Successful,Retail
+T0001144,A00178,2024-05-03,Deposit,24294.27,USSD,Successful,Retail
+T0001145,A00120,2024-08-02,Payment,4702.0,ATM,Successful,
+T0001146,A00195,2025-09-30,Transfer,21462.18,POS,Successful,Fuel
+T0001147,A00218,2025-03-24,Transfer,22853.56,ATM,Successful,Restaurants
+T0001148,A00159,2025-01-19,TRANSFER,19501.63,Mobile App,Successful,Fuel
+T0001149,A00176,2024-07-28,Withdrawal,21746.44,USSD,Successful,Utilities
+T0001150,A00191,2026-08-01,Deposit,419.62,USSD,Successful,Restaurants
+T0001151,A00170,2024-08-30,Transfer,8802.16,Internet Banking,Successful,Education
+T0001152,A00055,2025-11-14,Deposit,12557.25,Mobile App,Successful,Healthcare
+T0001153,A00026,2026-05-15,Deposit,9566.15,USSD,Successful,Education
+T0001154,A00046,2026-10-07,Transfer,13241.42,Internet Banking,Successful,Groceries
+T0001155,A00166,2024-08-23,Withdrawal,2781.51,Mobile App,Failed,
+T0001156,A00069,2025-07-18,Deposit,13305.63,USSD,Failed,Education
+T0001157,A00101,2025-07-03,Withdrawal,5501.11,Branch,Successful,Retail
+T0001158,A00089,2025-08-12,Transfer,17647.8,POS,Successful,Fuel
+T0001159,A00129,2025-09-17,Fee,15554.85,POS,Successful,Healthcare
+T0001160,A00175,2026-07-21,Deposit,4687.67,USSD,Reversed,Restaurants
+T0001161,A00110,2025-06-24,Withdrawal,4441.99,Mobile App,Successful,Groceries
+T0001162,A00153,2024-01-03,Withdrawal,11848.38,Branch,Failed,Restaurants
+T0001163,A00029,2025-08-18,Deposit,439.68,USSD,Successful,Fuel
+T0001164,A00194,2025-11-18,Deposit,72845.17,Branch,Successful,Healthcare
+T0001165,A00140,2026-01-16,Withdrawal,12164.9,Branch,Successful,Healthcare
+T0001166,A00078,2026-09-18,Payment,22284.85,Mobile App,Successful,Telecom
+T0001167,A00187,2026-04-20,Transfer,3701.77,USSD,Successful,Fuel
+T0001168,A00092,2026-06-01,Transfer,6112.97,ATM,Successful,Utilities
+T0001169,A00050,2024-08-09,Reversal,9447.57,ATM,Failed,Telecom
+T0001170,A00116,2024-12-24,Reversal,21902.94,ATM,Pending,Healthcare
+T0001171,A00085,2025-07-19,Withdrawal,10435.27,ATM,Successful,
+T0001172,A00134,2024-09-08,Payment,20855.12,Branch,Successful,
+T0001173,A00203,2024-01-18,Payment,7213.77,Branch,Pending,Fuel
+T0001174,A00120,2025-08-16,Payment,13082.04,Internet Banking,Successful,Fuel
+T0001175,A00078,2025-08-26,Transfer,1620.09,Mobile App,Successful,Retail
+T0001176,A00073,2026-09-27,Payment,3090.28,ATM,Successful,Healthcare
+T0001177,A00170,2024-10-09,Payment,1252.3,ATM,Failed,Telecom
+T0001178,A00171,2024-06-25,Reversal,14020.92,POS,Successful,Retail
+T0001179,A00111,2025-03-24,Transfer,2022.54,Mobile App,Successful,Healthcare
+T0001180,A00064,2026-05-15,Payment,15927.93,Branch,Reversed,Utilities
+T0001181,A00067,2024-12-20,Reversal,14927.98,Internet Banking,Successful,Healthcare
+T0001182,A00206,2025-02-12,Transfer,17084.61,ATM,Successful,Telecom
+T0001183,A00052,2026-08-02,Withdrawal,2144.52,Internet Banking,Successful,Education
+T0001184,A00025,2025-10-03,Deposit,11050.32,Internet Banking,Pending,Healthcare
+T0001185,A00120,2026-04-20,Withdrawal,11666.48,Branch,Successful,Telecom
+T0001186,A00007,2024-10-14,Reversal,10525.86,Internet Banking,Failed,Retail
+T0001187,A00149,2025-08-23,Transfer,3186.24,Mobile App,Successful,Education
+T0001188,A00033,2026-07-31,Withdrawal,153.79,Mobile App,Successful,Travel
+T0001189,A00213,2024-07-18,REVERSAL,2680.69,ATM,Successful,Healthcare
+T0001190,A00016,2024-04-18,Deposit,14617.51,POS,Successful,Fuel
+T0001191,A00144,2025-04-02,Payment,12385.14,POS,Successful,Fuel
+T0001192,A00078,2024-01-14,Transfer,17979.96,Branch,Successful,Retail
+T0001193,A00030,2024-09-04,Deposit,3829.79,Internet Banking,Successful,Retail
+T0001194,A00027,2026-06-27,Transfer,20819.0,Branch,Successful,Utilities
+T0001195,A00077,2025-04-26,Withdrawal,24567.49,Internet Banking,Successful,
+T0001196,A00175,2024-09-09,Withdrawal,16455.69,Branch,Successful,Groceries
+T0001197,A00048,2025-05-07,Deposit,18616.24,USSD,Successful,Telecom
+T0001198,A00052,2024-07-23,Transfer,7254.45,Internet Banking,Successful,Travel
+T0001199,A00101,2026-08-08,Withdrawal,19997.38,Branch,Successful,Fuel
+T0001200,A00008,2026-03-08,Withdrawal,3007.56,Mobile App,Successful,Groceries
